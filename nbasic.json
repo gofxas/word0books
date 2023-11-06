@@ -1,0 +1,802 @@
+[
+  {
+    "word": "おはようございます",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "ohayougozaimasu",
+    "rel_words": [],
+    "trans": [{ "cn": "Good morning", "pos": "" }]
+  },
+  {
+    "word": "こんにちは",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "konnichiha",
+    "rel_words": [],
+    "trans": [{ "cn": "Hello/ good afternoon", "pos": "" }]
+  },
+  {
+    "word": "こんばんは",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "konbanha",
+    "rel_words": [],
+    "trans": [{ "cn": "Good evening", "pos": "" }]
+  },
+  {
+    "word": "おやすみなさい",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "oyasuminasai",
+    "rel_words": [],
+    "trans": [{ "cn": "Goodnight", "pos": "" }]
+  },
+  {
+    "word": "ありがとうございます",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "arigatougozaimasu",
+    "rel_words": [],
+    "trans": [{ "cn": "Thank you", "pos": "" }]
+  },
+  {
+    "word": "すみません",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "sumimasen",
+    "rel_words": [],
+    "trans": [{ "cn": "Excuse me/ sorry", "pos": "" }]
+  },
+  {
+    "word": "ごめんなさい",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "gomennasai",
+    "rel_words": [],
+    "trans": [{ "cn": "Sorry", "pos": "" }]
+  },
+  {
+    "word": "はい",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "hai",
+    "rel_words": [],
+    "trans": [{ "cn": "Yes", "pos": "" }]
+  },
+  {
+    "word": "いいえ",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "iie",
+    "rel_words": [],
+    "trans": [{ "cn": "No", "pos": "" }]
+  },
+  {
+    "word": "わたし",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "watashi",
+    "rel_words": [],
+    "trans": [{ "cn": "I/me", "pos": "" }]
+  },
+  {
+    "word": "あなた",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "anata",
+    "rel_words": [],
+    "trans": [{ "cn": "You", "pos": "" }]
+  },
+  {
+    "word": "お母(かあ)さん",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "okaasan",
+    "rel_words": [],
+    "trans": [{ "cn": "Mother", "pos": "" }]
+  },
+  {
+    "word": "お父(とう)さん",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "otousan",
+    "rel_words": [],
+    "trans": [{ "cn": "Father", "pos": "" }]
+  },
+  {
+    "word": "お爺(じい)さん",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "ojiisan",
+    "rel_words": [],
+    "trans": [{ "cn": "Grandfather", "pos": "" }]
+  },
+  {
+    "word": "お婆(ばあ)さん",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "obaasan",
+    "rel_words": [],
+    "trans": [{ "cn": "Grandmother", "pos": "" }]
+  },
+  {
+    "word": "おじさん",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "ojisan",
+    "rel_words": [],
+    "trans": [{ "cn": "Uncle", "pos": "" }]
+  },
+  {
+    "word": "おばさん",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "obasan",
+    "rel_words": [],
+    "trans": [{ "cn": "Aunt", "pos": "" }]
+  },
+  {
+    "word": "お兄(にい)さん",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "oniisan",
+    "rel_words": [],
+    "trans": [{ "cn": "Older brother", "pos": "" }]
+  },
+  {
+    "word": "お姉(ねえ)さん",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "oneesan",
+    "rel_words": [],
+    "trans": [{ "cn": "Older sister", "pos": "" }]
+  },
+  {
+    "word": "弟(おとうと)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "otouto",
+    "rel_words": [],
+    "trans": [{ "cn": "Younger brother", "pos": "" }]
+  },
+  {
+    "word": "妹(いもうと)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "imouto",
+    "rel_words": [],
+    "trans": [{ "cn": "Younger sister", "pos": "" }]
+  },
+  {
+    "word": "一(いち)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "ichi",
+    "rel_words": [],
+    "trans": [{ "cn": "One", "pos": "" }]
+  },
+  {
+    "word": "二(に)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "ni",
+    "rel_words": [],
+    "trans": [{ "cn": "Two", "pos": "" }]
+  },
+  {
+    "word": "三(さん)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "san",
+    "rel_words": [],
+    "trans": [{ "cn": "Three", "pos": "" }]
+  },
+  {
+    "word": "四(よん)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "yon",
+    "rel_words": [],
+    "trans": [{ "cn": "Four", "pos": "" }]
+  },
+  {
+    "word": "五(ご)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "go",
+    "rel_words": [],
+    "trans": [{ "cn": "Five", "pos": "" }]
+  },
+  {
+    "word": "六(ろく)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "roku",
+    "rel_words": [],
+    "trans": [{ "cn": "Six", "pos": "" }]
+  },
+  {
+    "word": "七(なな)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "nana",
+    "rel_words": [],
+    "trans": [{ "cn": "Seven", "pos": "" }]
+  },
+  {
+    "word": "八(はち)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "hachi",
+    "rel_words": [],
+    "trans": [{ "cn": "Eight", "pos": "" }]
+  },
+  {
+    "word": "九(きゅう)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "kyuu",
+    "rel_words": [],
+    "trans": [{ "cn": "Nine", "pos": "" }]
+  },
+  {
+    "word": "十(じゅう)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "juu",
+    "rel_words": [],
+    "trans": [{ "cn": "Ten", "pos": "" }]
+  },
+  {
+    "word": "一月(いちがつ)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "ichigatsu",
+    "rel_words": [],
+    "trans": [{ "cn": "January", "pos": "" }]
+  },
+  {
+    "word": "二月(にがつ)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "nigatsu",
+    "rel_words": [],
+    "trans": [{ "cn": "February", "pos": "" }]
+  },
+  {
+    "word": "三月(さんがつ)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "sangatsu",
+    "rel_words": [],
+    "trans": [{ "cn": "March", "pos": "" }]
+  },
+  {
+    "word": "四月(しがつ)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "shigatsu",
+    "rel_words": [],
+    "trans": [{ "cn": "April", "pos": "" }]
+  },
+  {
+    "word": "五月(ごがつ)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "gogatsu",
+    "rel_words": [],
+    "trans": [{ "cn": "May", "pos": "" }]
+  },
+  {
+    "word": "六月(ろくがつ)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "rokugatsu",
+    "rel_words": [],
+    "trans": [{ "cn": "June", "pos": "" }]
+  },
+  {
+    "word": "七月(しちがつ)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "shichigatsu",
+    "rel_words": [],
+    "trans": [{ "cn": "July", "pos": "" }]
+  },
+  {
+    "word": "八月(はちがつ)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "hachigatsu",
+    "rel_words": [],
+    "trans": [{ "cn": "August", "pos": "" }]
+  },
+  {
+    "word": "九月(くがつ)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "kugatsu",
+    "rel_words": [],
+    "trans": [{ "cn": "September", "pos": "" }]
+  },
+  {
+    "word": "十月(じゅうがつ)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "juugatsu",
+    "rel_words": [],
+    "trans": [{ "cn": "October", "pos": "" }]
+  },
+  {
+    "word": "十一月(じゅういちがつ)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "juuichigatsu",
+    "rel_words": [],
+    "trans": [{ "cn": "November", "pos": "" }]
+  },
+  {
+    "word": "十二月(じゅうにがつ)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "juunigatsu",
+    "rel_words": [],
+    "trans": [{ "cn": "December", "pos": "" }]
+  },
+  {
+    "word": "月曜日(げつようび)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "getsuyoubi",
+    "rel_words": [],
+    "trans": [{ "cn": "Monday", "pos": "" }]
+  },
+  {
+    "word": "火曜日(かようび)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "kayoubi",
+    "rel_words": [],
+    "trans": [{ "cn": "Tuesday", "pos": "" }]
+  },
+  {
+    "word": "水曜日(すいようび)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "suiyoubi",
+    "rel_words": [],
+    "trans": [{ "cn": "Wednesday", "pos": "" }]
+  },
+  {
+    "word": "木曜日(もくようび)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "mokuyoubi",
+    "rel_words": [],
+    "trans": [{ "cn": "Thursday", "pos": "" }]
+  },
+  {
+    "word": "金曜日(きんようび)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "kinyoubi",
+    "rel_words": [],
+    "trans": [{ "cn": "Friday", "pos": "" }]
+  },
+  {
+    "word": "土曜日(どようび)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "doyoubi",
+    "rel_words": [],
+    "trans": [{ "cn": "Saturday", "pos": "" }]
+  },
+  {
+    "word": "日曜日(にちようび)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "nichiyoubi",
+    "rel_words": [],
+    "trans": [{ "cn": "Sunday", "pos": "" }]
+  },
+  {
+    "word": "昨日(きのう)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "kinou",
+    "rel_words": [],
+    "trans": [{ "cn": "Yesterday", "pos": "" }]
+  },
+  {
+    "word": "今日(きょう)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "kyou",
+    "rel_words": [],
+    "trans": [{ "cn": "Today", "pos": "" }]
+  },
+  {
+    "word": "明日(あした)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "ashita",
+    "rel_words": [],
+    "trans": [{ "cn": "Tomorrow", "pos": "" }]
+  },
+  {
+    "word": "朝(あさ)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "asa",
+    "rel_words": [],
+    "trans": [{ "cn": "Morning", "pos": "" }]
+  },
+  {
+    "word": "昼(ひる)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "hiru",
+    "rel_words": [],
+    "trans": [{ "cn": "Noon", "pos": "" }]
+  },
+  {
+    "word": "夕方(ゆうがた)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "yuugata",
+    "rel_words": [],
+    "trans": [{ "cn": "Evening", "pos": "" }]
+  },
+  {
+    "word": "夜(よる)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "yoru",
+    "rel_words": [],
+    "trans": [{ "cn": "Night", "pos": "" }]
+  },
+  {
+    "word": "楽(たの)しい",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "tanoshii",
+    "rel_words": [],
+    "trans": [{ "cn": "Happy", "pos": "" }]
+  },
+  {
+    "word": "悲(かな)しい",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "kanashii",
+    "rel_words": [],
+    "trans": [{ "cn": "Sad", "pos": "" }]
+  },
+  {
+    "word": "高(たか)い",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "takai",
+    "rel_words": [],
+    "trans": [{ "cn": "High/expensive", "pos": "" }]
+  },
+  {
+    "word": "低(ひく)い",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "hikui",
+    "rel_words": [],
+    "trans": [{ "cn": "Low", "pos": "" }]
+  },
+  {
+    "word": "安(やす)い",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "yasui",
+    "rel_words": [],
+    "trans": [{ "cn": "Cheap", "pos": "" }]
+  },
+  {
+    "word": "早(はや)い",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "hayai",
+    "rel_words": [],
+    "trans": [{ "cn": "Fast/early", "pos": "" }]
+  },
+  {
+    "word": "遅(おそ)い",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "osoi",
+    "rel_words": [],
+    "trans": [{ "cn": "Slow", "pos": "" }]
+  },
+  {
+    "word": "忙(いそが)しい",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "isogashii",
+    "rel_words": [],
+    "trans": [{ "cn": "Busy", "pos": "" }]
+  },
+  {
+    "word": "美味(おい)しい",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "oishii",
+    "rel_words": [],
+    "trans": [{ "cn": "Delicious", "pos": "" }]
+  },
+  {
+    "word": "不味(まず)い",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "mazui",
+    "rel_words": [],
+    "trans": [{ "cn": "Awful", "pos": "" }]
+  },
+  {
+    "word": "甘(あま)い",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "amai",
+    "rel_words": [],
+    "trans": [{ "cn": "Sweet", "pos": "" }]
+  },
+  {
+    "word": "塩(しょ)っぱい",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "shoppai",
+    "rel_words": [],
+    "trans": [{ "cn": "Salty", "pos": "" }]
+  },
+  {
+    "word": "酸(す)っぱい",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "suppai",
+    "rel_words": [],
+    "trans": [{ "cn": "Sour", "pos": "" }]
+  },
+  {
+    "word": "苦(にが)い",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "nigai",
+    "rel_words": [],
+    "trans": [{ "cn": "Bitter", "pos": "" }]
+  },
+  {
+    "word": "辛(つら)い",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "tsurai",
+    "rel_words": [],
+    "trans": [{ "cn": "Hot/ spicy", "pos": "" }]
+  },
+  {
+    "word": "熱(あつ)い",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "atsui",
+    "rel_words": [],
+    "trans": [{ "cn": "Hot", "pos": "" }]
+  },
+  {
+    "word": "暖(あたた)かい",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "atatakai",
+    "rel_words": [],
+    "trans": [{ "cn": "Warm", "pos": "" }]
+  },
+  {
+    "word": "冷(つめ)たい",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "tsumetai",
+    "rel_words": [],
+    "trans": [{ "cn": "Cold", "pos": "" }]
+  },
+  {
+    "word": "明(あか)るい",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "akarui",
+    "rel_words": [],
+    "trans": [{ "cn": "Bright", "pos": "" }]
+  },
+  {
+    "word": "暗(くら)い",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "kurai",
+    "rel_words": [],
+    "trans": [{ "cn": "Dark", "pos": "" }]
+  },
+  {
+    "word": "する",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "suru",
+    "rel_words": [],
+    "trans": [{ "cn": "To do", "pos": "" }]
+  },
+  {
+    "word": "見(み)る",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "miru",
+    "rel_words": [],
+    "trans": [{ "cn": "To see", "pos": "" }]
+  },
+  {
+    "word": "聞(き)く",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "kiku",
+    "rel_words": [],
+    "trans": [{ "cn": "To listen", "pos": "" }]
+  },
+  {
+    "word": "話(はな)す",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "hanasu",
+    "rel_words": [],
+    "trans": [{ "cn": "To talk/speak", "pos": "" }]
+  },
+  {
+    "word": "言(い)う",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "iu",
+    "rel_words": [],
+    "trans": [{ "cn": "To say", "pos": "" }]
+  },
+  {
+    "word": "書(か)く",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "kaku",
+    "rel_words": [],
+    "trans": [{ "cn": "To write", "pos": "" }]
+  },
+  {
+    "word": "食(た)べる",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "taberu",
+    "rel_words": [],
+    "trans": [{ "cn": "To eat", "pos": "" }]
+  },
+  {
+    "word": "飲(の)む",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "nomu",
+    "rel_words": [],
+    "trans": [{ "cn": "To drink", "pos": "" }]
+  },
+  {
+    "word": "歩(ある)く",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "aruku",
+    "rel_words": [],
+    "trans": [{ "cn": "To walk", "pos": "" }]
+  },
+  {
+    "word": "走(はし)る",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "hashiru",
+    "rel_words": [],
+    "trans": [{ "cn": "To run", "pos": "" }]
+  },
+  {
+    "word": "座(すわ)る",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "suwaru",
+    "rel_words": [],
+    "trans": [{ "cn": "To sit", "pos": "" }]
+  },
+  {
+    "word": "立(た)つ",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "tatsu",
+    "rel_words": [],
+    "trans": [{ "cn": "To stand", "pos": "" }]
+  },
+  {
+    "word": "食(た)べ物(もの)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "tabemono",
+    "rel_words": [],
+    "trans": [{ "cn": "Food", "pos": "" }]
+  },
+  {
+    "word": "飲(の)み物(もの)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "nomimono",
+    "rel_words": [],
+    "trans": [{ "cn": "Drinks", "pos": "" }]
+  },
+  {
+    "word": "ご飯(はん)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "gohan",
+    "rel_words": [],
+    "trans": [{ "cn": "Rice/meal", "pos": "" }]
+  },
+  {
+    "word": "水(みず)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "mizu",
+    "rel_words": [],
+    "trans": [{ "cn": "Water/cold water", "pos": "" }]
+  },
+  {
+    "word": "お湯(ゆ)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "oyu",
+    "rel_words": [],
+    "trans": [{ "cn": "Hot water", "pos": "" }]
+  },
+  {
+    "word": "肉(にく)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "niku",
+    "rel_words": [],
+    "trans": [{ "cn": "Meat", "pos": "" }]
+  },
+  {
+    "word": "野菜(やさい)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "yasai",
+    "rel_words": [],
+    "trans": [{ "cn": "Vegetable", "pos": "" }]
+  },
+  {
+    "word": "魚(さかな)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "sakana",
+    "rel_words": [],
+    "trans": [{ "cn": "Fish", "pos": "" }]
+  },
+  {
+    "word": "ラーメン",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "raamen",
+    "rel_words": [],
+    "trans": [{ "cn": "Ramen", "pos": "" }]
+  },
+  {
+    "word": "寿司(すし)",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "sushi",
+    "rel_words": [],
+    "trans": [{ "cn": "Sushi", "pos": "" }]
+  },
+  {
+    "word": "おにぎり",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "onigiri",
+    "rel_words": [],
+    "trans": [{ "cn": "Onigiri", "pos": "" }]
+  }
+]

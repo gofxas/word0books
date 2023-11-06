@@ -1,0 +1,6448 @@
+[
+  {
+    "word": "pair",
+    "usphone": "pɛr",
+    "ukphone": "peə",
+    "rel_words": [
+      {
+        "pos": "n",
+        "words": [{ "hwd": "pairing", "tran": " 配对；摞合；[机] 双层轧制" }]
+      }
+    ],
+    "trans": [{ "cn": "（相关的）两个人，一对", "pos": "n" }]
+  },
+  {
+    "word": "correct",
+    "usphone": "kə'rɛkt",
+    "ukphone": "kə'rekt",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "corrective", "tran": " 矫正的；惩治的" },
+          { "hwd": "corrected", "tran": " 修正的；校正的；折算的" },
+          { "hwd": "correctional", "tran": " 矫正的；修正的" },
+          { "hwd": "correctable", "tran": " 可校正的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "correctly", "tran": " 正确地；得体地" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "correction", "tran": " 改正，修正" },
+          { "hwd": "corrective", "tran": " 矫正物；改善法" },
+          { "hwd": "correctness", "tran": " 正确性" },
+          { "hwd": "correctitude", "tran": " 端正；得体" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          {
+            "hwd": "corrected",
+            "tran": " 纠正；改正（correct的过去分词）；制止"
+          }
+        ]
+      }
+    ],
+    "trans": [
+      { "cn": "改正；纠正", "pos": "v" },
+      { "cn": "正确的；对的", "pos": "adj" }
+    ]
+  },
+  {
+    "word": "spelling",
+    "usphone": "'spɛlɪŋ",
+    "ukphone": "'spelɪŋ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          {
+            "hwd": "spellbound",
+            "tran": " 被咒语所镇住的；出神的；被迷住的；茫然不知所之的"
+          }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "spell", "tran": " 符咒；一段时间；魅力" },
+          { "hwd": "spelt", "tran": " 斯佩耳特小麦" },
+          { "hwd": "spelldown", "tran": " 拼字比赛" },
+          { "hwd": "speller", "tran": " 拼字的人；拼字课本" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "spelt", "tran": " 拼写（spell的过去式）" }]
+      },
+      { "pos": "vi", "words": [{ "hwd": "spell", "tran": " 拼字；轮替" }] },
+      {
+        "pos": "vt",
+        "words": [
+          {
+            "hwd": "spell",
+            "tran": " 拼，拼写；意味着；招致；拼成；迷住；轮值"
+          },
+          { "hwd": "spellbind", "tran": " 迷住；用妖术迷惑" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "拼写", "pos": "n" }]
+  },
+  {
+    "word": "word",
+    "usphone": "wɝd",
+    "ukphone": "wɜːd",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "wordless", "tran": " 沉默的，无言的" }]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "wording", "tran": " [语] 措辞；用语；语法" }]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "wording", "tran": " 用词语表达；讲话（word的ing形式）" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "词；单词；字", "pos": "n" }]
+  },
+  {
+    "word": "practise",
+    "usphone": "'præktɪs",
+    "ukphone": "'præktɪs",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "practicable", "tran": " 可用的；行得通的；可实行的" },
+          { "hwd": "practised", "tran": " 熟练的；老练的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "practice", "tran": " 实践；练习；惯例" }]
+      },
+      {
+        "pos": "v",
+        "words": [
+          {
+            "hwd": "practised",
+            "tran": " 实践；练习；惯做（practise的过去分词）"
+          }
+        ]
+      },
+      {
+        "pos": "vi",
+        "words": [{ "hwd": "practice", "tran": " 练习；实习；实行" }]
+      },
+      {
+        "pos": "vt",
+        "words": [{ "hwd": "practice", "tran": " 练习；实习；实行" }]
+      }
+    ],
+    "trans": [{ "cn": "练习", "pos": "v" }]
+  },
+  {
+    "word": "match",
+    "usphone": "mætʃ",
+    "ukphone": "mætʃ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "matching", "tran": " 相配的；一致的；相称的" },
+          { "hwd": "matchless", "tran": " 无比的；无敌的" },
+          { "hwd": "matchmaking", "tran": " 火柴制造的；火柴制造者的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "matching", "tran": " 匹配" },
+          { "hwd": "matchmaker", "tran": " 媒人；安排比赛的人；火柴制造者" },
+          { "hwd": "matchmaking", "tran": " 做媒；火柴制造；安排比赛" },
+          { "hwd": "matcher", "tran": " [计] 匹配程序；制榫机；匹配器" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "matching", "tran": " 使…相配（match的ing形式）" }]
+      }
+    ],
+    "trans": [{ "cn": "找到与⋯⋯相配之物，使相配；使成对", "pos": "v" }]
+  },
+  {
+    "word": "meaning",
+    "usphone": "'minɪŋ",
+    "ukphone": "'miːnɪŋ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "mean", "tran": " 平均的；卑鄙的；低劣的" },
+          { "hwd": "meaningful", "tran": " 有意义的；意味深长的" },
+          { "hwd": "meaningless", "tran": " 无意义的；无目的的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "meaningfully", "tran": " 有意义地；意味深长地；有意图地" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "mean", "tran": " 平均值" },
+          { "hwd": "meaningfulness", "tran": " 有意义，富有意义" },
+          { "hwd": "meaninglessness", "tran": " 无意义；无道理" }
+        ]
+      },
+      { "pos": "vi", "words": [{ "hwd": "mean", "tran": " 用意" }] },
+      { "pos": "vt", "words": [{ "hwd": "mean", "tran": " 意味；想要；意欲" }] }
+    ],
+    "trans": [{ "cn": "意义；意思", "pos": "n" }]
+  },
+  {
+    "word": "complete",
+    "usphone": "kəm'plit",
+    "ukphone": "kəm'pliːt",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "completed", "tran": " 完整的；完全的" }]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "completely", "tran": " 完全地，彻底地；完整地" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "completion", "tran": " 完成，结束；实现" },
+          { "hwd": "completeness", "tran": " 完整；完全；完成；圆满；结束" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "completed", "tran": " 完成（complete的过去分词）" }]
+      }
+    ],
+    "trans": [{ "cn": "把⋯⋯填完整；使完全", "pos": "v" }]
+  },
+  {
+    "word": "sentence",
+    "usphone": "'sɛntəns",
+    "ukphone": "'sent(ə)ns",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "sentential", "tran": " 句子的；判决的" }]
+      }
+    ],
+    "trans": [{ "cn": "句子", "pos": "n" }]
+  },
+  {
+    "word": "dictionary",
+    "usphone": "'dɪkʃə'nɛri",
+    "ukphone": "'dɪkʃ(ə)n(ə)rɪ",
+    "rel_words": [],
+    "trans": [{ "cn": "词典；字典", "pos": "n" }]
+  },
+  {
+    "word": "grammar",
+    "usphone": "'græmɚ",
+    "ukphone": "'græmə",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "grammatical", "tran": " 文法的；符合语法规则的" }]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "grammatically", "tran": " 从语法上讲" }]
+      }
+    ],
+    "trans": [{ "cn": "语法", "pos": "n" }]
+  },
+  {
+    "word": "letter",
+    "usphone": "'lɛtɚ",
+    "ukphone": "'letə",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "lettered", "tran": " 有学问的；有文化修养的；标有字母的" },
+          { "hwd": "letterpress", "tran": " 凸版印刷的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "letterpress", "tran": " 凸版印刷地" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "lettering", "tran": " 刻字；印字；书写的文字" },
+          { "hwd": "letterer", "tran": " 文字书写员；文字雕刻员" },
+          { "hwd": "letterpress", "tran": " 凸版印刷；正文" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          {
+            "hwd": "lettering",
+            "tran": " 用字母写；用印刷体写（letter的ing形式）"
+          },
+          { "hwd": "lettered", "tran": " 写印刷体字母（letter的过去式）" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "字母", "pos": "n" }]
+  },
+  { "word": "look up", "rel_words": [], "trans": [{ "cn": "查；查找" }] },
+  {
+    "word": "mistake",
+    "usphone": "mɪ'stek",
+    "ukphone": "mɪ'steɪk",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "mistaken", "tran": " 错误的；弄错的；被误解的" },
+          { "hwd": "mistakable", "tran": " 易弄错的，易误解的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "mistakenly", "tran": " 错误地；曲解地，被误解地" }]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "mistaken", "tran": " 弄错（mistake的过去分词）" }]
+      }
+    ],
+    "trans": [{ "cn": "错误；过错", "pos": "n" }]
+  },
+  { "word": "make a mistake", "rel_words": [], "trans": [{ "cn": "犯错误" }] },
+  {
+    "word": "understand",
+    "usphone": "'ʌndɚ'stænd",
+    "ukphone": "ʌndə'stænd",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "understanding", "tran": " 了解的；聪明的；有理解力的" },
+          { "hwd": "understandable", "tran": " 可以理解的；可以了解的" },
+          { "hwd": "understood", "tran": " 被充分理解的；心照不宣的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "understandably", "tran": " 可理解地" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "understanding", "tran": " 谅解，理解；理解力；协议" },
+          { "hwd": "understandability", "tran": " 易懂" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          {
+            "hwd": "understanding",
+            "tran": " 理解；明白（understand的ing形式）"
+          },
+          {
+            "hwd": "understood",
+            "tran": " 明白；懂得（understand的过去分词）；熟悉"
+          }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "(understood) 理解；明白", "pos": "v" }]
+  },
+  {
+    "word": "advice",
+    "usphone": "ədˈvaɪs",
+    "ukphone": "əd'vaɪs",
+    "rel_words": [],
+    "trans": [{ "cn": "意见；建议", "pos": "n" }]
+  },
+  {
+    "word": "should",
+    "usphone": "ʃəd; strong form ʃʊd",
+    "ukphone": "ʃəd; strong form ʃʊd",
+    "rel_words": [],
+    "trans": [{ "cn": "应该", "pos": "v aux" }]
+  },
+  {
+    "word": "possible",
+    "usphone": "'pɑsəbl",
+    "ukphone": "'pɒsɪb(ə)l",
+    "rel_words": [
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "possibly", "tran": " 可能地；也许；大概" }]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "possibility", "tran": " 可能性；可能发生的事物" }]
+      }
+    ],
+    "trans": [{ "cn": "可能的", "pos": "adj" }]
+  },
+  { "word": "write down", "rel_words": [], "trans": [{ "cn": "写下；记下" }] },
+  {
+    "word": "notebook",
+    "usphone": "'notbʊk",
+    "ukphone": "'nəʊtbʊk",
+    "rel_words": [
+      {
+        "pos": "n",
+        "words": [{ "hwd": "notepaper", "tran": " 信纸；便条纸；笔记用纸" }]
+      }
+    ],
+    "trans": [{ "cn": "笔记本", "pos": "n" }]
+  },
+  {
+    "word": "forget",
+    "usphone": "fɚ'ɡɛt",
+    "ukphone": "fə'get",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "forgetful", "tran": " 健忘的；不注意的；疏忽的；使遗忘的" },
+          { "hwd": "forgettable", "tran": " 可忘记的；容易被忘的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "forgetfully", "tran": " 不注意地；健忘地" }]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "forgetfulness", "tran": " 健忘，忽略" }]
+      }
+    ],
+    "trans": [{ "cn": "(forgot) 忘；忘记", "pos": "v" }]
+  },
+  {
+    "word": "pronounce",
+    "usphone": "prə'naʊns",
+    "ukphone": "prə'naʊns",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "pronounced", "tran": " 显著的；断然的；讲出来的" },
+          { "hwd": "pronounceable", "tran": " 读得出的；可发音的；可断言的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "pronunciation", "tran": " 发音；读法" },
+          { "hwd": "pronouncement", "tran": " 声明；宣告；公告；判决" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          {
+            "hwd": "pronounced",
+            "tran": " 发音；宣告；断言（pronounce的过去分词）"
+          }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "发⋯⋯的音", "pos": "v" }]
+  },
+  {
+    "word": "aloud",
+    "usphone": "ə'laʊd",
+    "ukphone": "ə'laʊd",
+    "rel_words": [],
+    "trans": [{ "cn": "大声地；出声地", "pos": "adv" }]
+  },
+  {
+    "word": "radio",
+    "usphone": "'redɪo",
+    "ukphone": "'reɪdɪəʊ",
+    "rel_words": [],
+    "trans": [{ "cn": "电台；广播", "pos": "n" }]
+  },
+  {
+    "word": "pronunciation",
+    "usphone": "prə,nʌnsɪ'eʃən",
+    "ukphone": "prə,nʌnsɪ'eɪʃ(ə)n",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "pronounced", "tran": " 显著的；断然的；讲出来的" },
+          { "hwd": "pronounceable", "tran": " 读得出的；可发音的；可断言的" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          {
+            "hwd": "pronounced",
+            "tran": " 发音；宣告；断言（pronounce的过去分词）"
+          }
+        ]
+      },
+      {
+        "pos": "vi",
+        "words": [{ "hwd": "pronounce", "tran": " 发音；作出判断" }]
+      },
+      {
+        "pos": "vt",
+        "words": [{ "hwd": "pronounce", "tran": " 发音；宣判；断言" }]
+      }
+    ],
+    "trans": [{ "cn": "发音", "pos": "n" }]
+  },
+  {
+    "word": "key",
+    "ukphone": "kiː",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "keyless", "tran": " 无键的；（钟表等）以转柄上发条的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "keyboard", "tran": " 键盘" },
+          { "hwd": "keyer", "tran": " 调制器，电键器" }
+        ]
+      },
+      {
+        "pos": "vi",
+        "words": [
+          { "hwd": "keyboard", "tran": " 用键盘进行操作；作键盘式排字机排字" }
+        ]
+      },
+      {
+        "pos": "vt",
+        "words": [{ "hwd": "keyboard", "tran": " 键入；用键盘式排字机排字" }]
+      }
+    ],
+    "trans": [{ "cn": "关键性的，非常重要的", "pos": "adj" }]
+  },
+  {
+    "word": "main",
+    "ukphone": "meɪn",
+    "rel_words": [
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "mainly", "tran": " 主要地，大体上" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          {
+            "hwd": "mainstay",
+            "tran": " 支柱；中流砥柱；主要的依靠；主桅支索"
+          },
+          {
+            "hwd": "mainspring",
+            "tran": " 主要动力；（钟表）主发条；主要原因；主要动机"
+          }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "主要的；最大的", "pos": "adj" }]
+  },
+  {
+    "word": "excellent",
+    "usphone": "'ɛksələnt",
+    "ukphone": "ˈeksələnt",
+    "rel_words": [
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "excellently", "tran": " 极好地；优异地" }]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "excellence", "tran": " 优秀；美德；长处" }]
+      }
+    ],
+    "trans": [{ "cn": "极好的；优秀的", "pos": "adj" }]
+  },
+  {
+    "word": "agree",
+    "usphone": "ə'ɡri",
+    "ukphone": "ə'griː",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "agreed", "tran": " 同意的；通过协议的" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "agreement", "tran": " 协议；同意，一致" },
+          { "hwd": "agreeableness", "tran": " 适合；一致" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "agreed", "tran": " 同意；赞成（agree的过去式）" }]
+      }
+    ],
+    "trans": [{ "cn": "赞同", "pos": "v" }]
+  },
+  {
+    "word": "agree with sb.",
+    "rel_words": [],
+    "trans": [{ "cn": "同意某人" }]
+  },
+  {
+    "word": "vocabulary",
+    "usphone": "və'kæbjəlɛri",
+    "ukphone": "və(ʊ)'kæbjʊlərɪ",
+    "rel_words": [],
+    "trans": [{ "cn": "词汇；词汇量", "pos": "n" }]
+  },
+  { "word": "ask for", "rel_words": [], "trans": [{ "cn": "请求（给予）" }] },
+  {
+    "word": "improve",
+    "usphone": "ɪm'pruv",
+    "ukphone": "ɪm'pruːv",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "improved", "tran": " 改良的；改进过的" },
+          { "hwd": "improving", "tran": " 有启发的；有教育意义的" },
+          { "hwd": "improvised", "tran": " 即兴的；临时准备的" },
+          {
+            "hwd": "improvable",
+            "tran": " 可改良的；可利用的；可改善的；可更好的"
+          }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "improvement", "tran": " 改进，改善" },
+          { "hwd": "improver", "tran": " 改进者；改善者；改良物" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          {
+            "hwd": "improved",
+            "tran": " 改进；增加（improve的过去式和过去分词）；变得更好"
+          },
+          {
+            "hwd": "improving",
+            "tran": " 提高；改善；利用（improve的ing形式）"
+          },
+          {
+            "hwd": "improvised",
+            "tran": " 即兴创作；临时做，临时提供（improvise的过去分词）"
+          }
+        ]
+      },
+      {
+        "pos": "vi",
+        "words": [
+          { "hwd": "improvise", "tran": " 即兴创作；即兴表演；临时凑合" }
+        ]
+      },
+      {
+        "pos": "vt",
+        "words": [
+          {
+            "hwd": "improvise",
+            "tran": " 即兴创作；即兴表演；临时做；临时提供"
+          }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "改进；改善", "pos": "v" }]
+  },
+  {
+    "word": "basic",
+    "usphone": "'beɪsɪk",
+    "ukphone": "'beɪsɪk",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "baseless", "tran": " 无根据的；无基础的" }]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "basically", "tran": " 主要地，基本上" }]
+      }
+    ],
+    "trans": [{ "cn": "主要的；基础的", "pos": "adj" }]
+  },
+  {
+    "word": "time",
+    "usphone": "taɪm",
+    "ukphone": "taɪm",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "timely", "tran": " 及时的；适时的" },
+          { "hwd": "timeless", "tran": " 永恒的；不受时间影响的；不合时宜的" },
+          { "hwd": "timed", "tran": " 定时的，同步的；时控的" }
+        ]
+      },
+      { "pos": "adv", "words": [{ "hwd": "timely", "tran": " 及时地；早" }] },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "timing", "tran": " 定时；调速；时间选择" },
+          {
+            "hwd": "timer",
+            "tran": " [电子] 定时器；计时器；计时员，记时员；跑表；延时调节器"
+          },
+          { "hwd": "timeliness", "tran": " 及时；时间性；好时机" },
+          { "hwd": "timekeeper", "tran": " 计时员；钟表；工作时间记录员" },
+          { "hwd": "timekeeping", "tran": " 计时；时间记录" },
+          { "hwd": "timelessness", "tran": " 永恒，不朽；不受时间影响" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          {
+            "hwd": "timing",
+            "tran": " 为…安排时间；测定…的时间（time的ing形式）"
+          },
+          {
+            "hwd": "timed",
+            "tran": " 合拍；为…安排时间；记录…的时间（time的过去分词）"
+          }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "次；回", "pos": "n" }]
+  },
+  {
+    "word": "advise",
+    "usphone": "əd'vaɪz",
+    "ukphone": "əd'vaɪz",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "advisory", "tran": " 咨询的；顾问的；劝告的" },
+          { "hwd": "advised", "tran": " 考虑过的；细想过的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "advisor", "tran": " 顾问；指导教师；劝告者" },
+          { "hwd": "advisory", "tran": " 报告；公告" },
+          {
+            "hwd": "adviser",
+            "tran": " 顾问；劝告者；指导教师（等于advisor）"
+          },
+          { "hwd": "advisement", "tran": " 深思熟虑；劝告；（美）磋商" },
+          {
+            "hwd": "advisee",
+            "tran": " （美）受教授指导选课的学生；受到建议的人"
+          }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "advised", "tran": " 建议（advise的过去分词）；劝告" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "向⋯⋯提出意见；忠告；建议", "pos": "v" }]
+  },
+  {
+    "word": "shy",
+    "usphone": "ʃaɪ",
+    "ukphone": "ʃaɪ",
+    "rel_words": [
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "shyly", "tran": " 害羞地；羞怯地；胆怯地；小心地" },
+          { "hwd": "shily", "tran": " 胆小地；羞怯地" }
+        ]
+      },
+      { "pos": "n", "words": [{ "hwd": "shyness", "tran": " 羞怯" }] }
+    ],
+    "trans": [{ "cn": "羞怯的；腼腆的", "pos": "adj" }]
+  },
+  {
+    "word": "conversation",
+    "usphone": ",kɑnvɚ'seʃən",
+    "ukphone": "kɒnvə'seɪʃ(ə)n",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "converse", "tran": " 相反的，逆向的；颠倒的" },
+          { "hwd": "conversational", "tran": " 对话的；健谈的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "conversationally", "tran": " 会话地" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "converse", "tran": " 逆行，逆向；倒；相反的事物" },
+          { "hwd": "conversationalist", "tran": " 健谈的人" }
+        ]
+      },
+      {
+        "pos": "vi",
+        "words": [{ "hwd": "converse", "tran": " 交谈，谈话；认识" }]
+      }
+    ],
+    "trans": [{ "cn": "谈话；交谈", "pos": "n" }]
+  },
+  {
+    "word": "quickly",
+    "usphone": "'kwɪkli",
+    "ukphone": "'kwɪklɪ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "quick", "tran": " 快的；迅速的，敏捷的；灵敏的" },
+          { "hwd": "quickening", "tran": " 使活泼的；使复苏的" }
+        ]
+      },
+      { "pos": "adv", "words": [{ "hwd": "quick", "tran": " 迅速地，快" }] },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "quick", "tran": " 核心；伤口的嫩肉" },
+          { "hwd": "quickening", "tran": " 胎动；兴奋" },
+          { "hwd": "quickness", "tran": " 急速，迅速；尖锐化" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "quickening", "tran": " 加速；活跃（quicken的ing形式）" }
+        ]
+      },
+      {
+        "pos": "vi",
+        "words": [{ "hwd": "quicken", "tran": " 加快；变活跃；进入胎动期" }]
+      },
+      {
+        "pos": "vt",
+        "words": [{ "hwd": "quicken", "tran": " 加快；鼓舞；使复活" }]
+      }
+    ],
+    "trans": [{ "cn": "快地；迅速地", "pos": "adv" }]
+  },
+  {
+    "word": "natural",
+    "usphone": "'nætʃrəl",
+    "ukphone": "ˈnætʃrəl",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          {
+            "hwd": "naturalist",
+            "tran": " 自然的（等于naturalistic）；自然主义的；博物学的"
+          },
+          { "hwd": "naturalistic", "tran": " 自然的；自然主义的；博物学的" },
+          {
+            "hwd": "naturalized",
+            "tran": " 归化的；入籍的；[动] 自然化的；驯化的"
+          }
+        ]
+      },
+      { "pos": "adv", "words": [{ "hwd": "naturally", "tran": " 自然地" }] },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "nature", "tran": " 自然；性质；本性；种类" },
+          {
+            "hwd": "naturalist",
+            "tran": " 自然主义者；博物学者；（英）动物标本剥制者；买卖玩赏动物的商人"
+          },
+          { "hwd": "naturalism", "tran": " 自然主义；本能行动；自然论" },
+          { "hwd": "naturalness", "tran": " 当然，自然" },
+          { "hwd": "naturism", "tran": " 对自然现象的崇拜；裸体主义" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          {
+            "hwd": "naturalized",
+            "tran": " 使自然化；接受…入国籍；采纳（naturalize的过去式和过去分词）"
+          }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "合理的；合乎常情的", "pos": "adj" }]
+  },
+  {
+    "word": "suggest",
+    "usphone": "sə'dʒɛst",
+    "ukphone": "sə'dʒest",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "suggestive", "tran": " 暗示的；提示的；影射的" },
+          { "hwd": "suggestible", "tran": " 可建议的；耳根软的；易受影响的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "suggestively", "tran": " 提示地；引起联想地；暗示地" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "suggestion", "tran": " 建议；示意；微量，细微的迹象" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "建议；提议", "pos": "v" }]
+  },
+  {
+    "word": "place",
+    "usphone": "ples",
+    "ukphone": "pleɪs",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "placed", "tran": " 名列前茅的" },
+          {
+            "hwd": "placeable",
+            "tran": " 可被确定位置的；可被确定年代的；可被安置的"
+          }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "placement", "tran": " 布置；定位球；人员配置" },
+          { "hwd": "placer", "tran": " 冲积矿；放置者" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "placed", "tran": " 放置（place的过去分词形式）" }]
+      }
+    ],
+    "trans": [{ "cn": "放置", "pos": "v" }]
+  },
+  {
+    "word": "hill",
+    "usphone": "hɪl",
+    "ukphone": "hɪl",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "hilly", "tran": " 丘陵的；陡的；多小山的；多坡的" }]
+      },
+      { "pos": "n", "words": [{ "hwd": "hilliness", "tran": " 多丘陵" }] }
+    ],
+    "trans": [{ "cn": "小山；小丘", "pos": "n" }]
+  },
+  {
+    "word": "population",
+    "usphone": "ˌpɑpjuˈleɪʃn",
+    "ukphone": "pɒpjʊ'leɪʃ(ə)n",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "populated", "tran": " 粒子数增加的" },
+          { "hwd": "populous", "tran": " 人口稠密的；人口多的" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          {
+            "hwd": "populated",
+            "tran": " 居住于…中；构成…的人口（populate的过去分词）"
+          }
+        ]
+      },
+      {
+        "pos": "vt",
+        "words": [
+          { "hwd": "populate", "tran": " 居住于；构成人口；移民于；殖民于" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "（某一地区的）人口，全体居民", "pos": "n" }]
+  },
+  {
+    "word": "wide",
+    "usphone": "waɪd",
+    "ukphone": "waɪd",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "widish", "tran": " 稍宽的；较广的" }]
+      },
+      { "pos": "adv", "words": [{ "hwd": "widely", "tran": " 广泛地" }] },
+      { "pos": "n", "words": [{ "hwd": "width", "tran": " 宽度；广度" }] },
+      { "pos": "vi", "words": [{ "hwd": "widen", "tran": " 变宽" }] },
+      { "pos": "vt", "words": [{ "hwd": "widen", "tran": " 放宽" }] }
+    ],
+    "trans": [{ "cn": "宽的；宽阔的", "pos": "adj" }]
+  },
+  {
+    "word": "million",
+    "usphone": "'mɪljən",
+    "ukphone": "'mɪljən",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "millionaire", "tran": " 100万以上人口的" },
+          { "hwd": "millionfold", "tran": " 百万倍的" },
+          { "hwd": "millionth", "tran": " 百万分之一的；第一百万的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "millionfold", "tran": " 百万倍地" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "millionaire", "tran": " 百万富翁；大富豪" },
+          { "hwd": "millionairess", "tran": " 百万富婆；百万富翁的妻子" },
+          { "hwd": "millionth", "tran": " 百万分之一；第一百万" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "百万", "pos": "num" }]
+  },
+  {
+    "word": "pretty",
+    "usphone": "ˈprɪtɪ",
+    "ukphone": "'prɪtɪ",
+    "rel_words": [
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "prettily", "tran": " 漂亮地，可爱地；恰如其分地" }]
+      },
+      { "pos": "n", "words": [{ "hwd": "prettiness", "tran": " 可爱，漂亮" }] },
+      {
+        "pos": "vt",
+        "words": [{ "hwd": "prettify", "tran": " 美化，粉饰；修饰" }]
+      }
+    ],
+    "trans": [{ "cn": "[主口]相当地；非常；很", "pos": "adv" }]
+  },
+  {
+    "word": "pretty good",
+    "rel_words": [],
+    "trans": [{ "cn": "相当好；很好" }]
+  },
+  {
+    "word": "than",
+    "usphone": "ðæn",
+    "ukphone": "ðæn; ð(ə)n",
+    "rel_words": [],
+    "trans": [{ "cn": "比", "pos": "prep" }]
+  },
+  {
+    "word": "get",
+    "usphone": "ɡɛt",
+    "ukphone": "get",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "getable", "tran": " 能得到的" },
+          { "hwd": "getatable", "tran": " 可接近的；可获得的" },
+          { "hwd": "gettable", "tran": " 能得到的；可以获得的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "getting", "tran": " 获得；采煤，采掘" },
+          { "hwd": "gat", "tran": " 手枪" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "getting", "tran": " 获得；了解（get的现在分词）；抓住" },
+          { "hwd": "gat", "tran": " 得到（get的过去式）" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "成为；变成", "pos": "v" }]
+  },
+  {
+    "word": "north",
+    "usphone": "nɔrθ",
+    "ukphone": "nɔːθ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "northern", "tran": " 北部的；北方的" },
+          { "hwd": "northeastern", "tran": " 在东北的；东北方的；来自东北的" },
+          { "hwd": "northward", "tran": " 向北的" },
+          { "hwd": "northbound", "tran": " 北行的；向北方的" },
+          { "hwd": "northerly", "tran": " 北方的，向北的；来自北方的" },
+          { "hwd": "northernmost", "tran": " 最北的" },
+          { "hwd": "northmost", "tran": " 极北的（等于northernmost）" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "northward", "tran": " 向北" },
+          { "hwd": "northerly", "tran": " 向北；来自北方" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "northern", "tran": " 北部方言" },
+          { "hwd": "northward", "tran": " 北方" },
+          { "hwd": "norther", "tran": " 酷寒北风；强烈北风" },
+          { "hwd": "northerly", "tran": " 北风" },
+          { "hwd": "northerner", "tran": " 北方人" }
+        ]
+      }
+    ],
+    "trans": [
+      { "cn": "北；北方", "pos": "n" },
+      { "cn": "在北方的；朝北的", "pos": "adj" }
+    ]
+  },
+  {
+    "word": "south",
+    "usphone": "saʊθ",
+    "ukphone": "saʊθ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "southern", "tran": " 南的；南方的" },
+          { "hwd": "southeastern", "tran": " 东南方的；朝东南的" },
+          { "hwd": "southward", "tran": " 向南的；在南方的" },
+          { "hwd": "southbound", "tran": " 往南的；向南行进的" },
+          { "hwd": "southerly", "tran": " 来自南方的；向南的" },
+          { "hwd": "southernmost", "tran": " 最南的" },
+          { "hwd": "southmost", "tran": " 最南的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "southward", "tran": " 向南" },
+          { "hwd": "southerly", "tran": " 来自南方；向南" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "southern", "tran": " 南方人" },
+          { "hwd": "southerner", "tran": " 南方人" },
+          { "hwd": "southward", "tran": " 朝南的方向" },
+          { "hwd": "souther", "tran": " 正南强风；南风" },
+          { "hwd": "southerly", "tran": " 南风" }
+        ]
+      }
+    ],
+    "trans": [
+      { "cn": "南；南方", "pos": "n" },
+      { "cn": "在南方的；朝南的", "pos": "adj" }
+    ]
+  },
+  {
+    "word": "west",
+    "usphone": "wɛst",
+    "ukphone": "west",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "western", "tran": " 西方的，西部的；有西方特征的" },
+          { "hwd": "westward", "tran": " 向西的；西方的" },
+          { "hwd": "westerly", "tran": " 西的；自西的；向西方的" },
+          { "hwd": "westernmost", "tran": " 最西的" },
+          { "hwd": "westmost", "tran": " 最西的；极西的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "westward", "tran": " 向西" },
+          { "hwd": "westerly", "tran": " 向西，往西" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "western", "tran": " 西方人；西部片，西部小说" },
+          { "hwd": "westward", "tran": " 西部；西方" },
+          { "hwd": "westerner", "tran": " 西方人，欧美人；美国西部的人" },
+          { "hwd": "wester", "tran": " 西风" },
+          { "hwd": "westerly", "tran": " 西风" },
+          { "hwd": "westernization", "tran": " 西方化；欧美化" }
+        ]
+      },
+      { "pos": "vi", "words": [{ "hwd": "wester", "tran": " 向西；西行" }] },
+      {
+        "pos": "vt",
+        "words": [{ "hwd": "westernize", "tran": " 使西洋化，使欧化" }]
+      }
+    ],
+    "trans": [
+      { "cn": "西；西方", "pos": "n" },
+      { "cn": "在西方的；朝西的", "pos": "adj" }
+    ]
+  },
+  { "word": "home town", "rel_words": [], "trans": [{ "cn": "故乡；家乡" }] },
+  {
+    "word": "especially",
+    "usphone": "ɪˈspɛʃlɪ",
+    "ukphone": "ɪˈspeʃəlɪ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "especial", "tran": " 特殊的，特别的" }]
+      }
+    ],
+    "trans": [{ "cn": "尤其", "pos": "adv" }]
+  },
+  {
+    "word": "be famous for",
+    "rel_words": [],
+    "trans": [{ "cn": "因⋯⋯而闻名" }]
+  },
+  {
+    "word": "university",
+    "usphone": ",junɪ'vɝsəti",
+    "ukphone": "juːnɪ'vɜːsɪtɪ",
+    "rel_words": [],
+    "trans": [{ "cn": "大学", "pos": "n" }]
+  },
+  {
+    "word": "island",
+    "usphone": "'aɪlənd",
+    "ukphone": "'aɪlənd",
+    "rel_words": [
+      { "pos": "n", "words": [{ "hwd": "islander", "tran": " 岛上居民" }] }
+    ],
+    "trans": [{ "cn": "岛；岛屿", "pos": "n" }]
+  },
+  {
+    "word": "area",
+    "usphone": "ˈeriə",
+    "ukphone": "'eərɪə",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "areal", "tran": " 地区的；[数] 面积的；广大的" }]
+      }
+    ],
+    "trans": [{ "cn": "地区；区域", "pos": "n" }]
+  },
+  {
+    "word": "low",
+    "ukphone": "ləʊ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "lowly", "tran": " 卑贱的；地位低的；谦逊的" }]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "lowly", "tran": " 谦逊地；位置低下地；低声地" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "lowliness", "tran": " 卑微；下贱" },
+          { "hwd": "lowness", "tran": " 低下；卑贱；微弱" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "矮的；低的", "pos": "adj" }]
+  },
+  {
+    "word": "mountain",
+    "usphone": "ˈmaʊntn",
+    "ukphone": "ˈmaʊntən",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "mountainous", "tran": " 多山的；巨大的；山一般的" }]
+      }
+    ],
+    "trans": [{ "cn": "山；山岳", "pos": "n" }]
+  },
+  {
+    "word": "countryside",
+    "usphone": "'kʌntrɪsaɪd",
+    "ukphone": "'kʌntrɪsaɪd",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "country", "tran": " 乡下的；粗野的" }]
+      },
+      { "pos": "n", "words": [{ "hwd": "country", "tran": " 国家；故乡" }] }
+    ],
+    "trans": [{ "cn": "农村地区；乡下", "pos": "n" }]
+  },
+  {
+    "word": "umbrella",
+    "usphone": "ʌm'brɛlə",
+    "ukphone": "ʌm'brelə",
+    "rel_words": [],
+    "trans": [{ "cn": "雨伞", "pos": "n" }]
+  },
+  {
+    "word": "baseball",
+    "usphone": "'besbɔl",
+    "ukphone": "'beɪsbɔːl",
+    "rel_words": [],
+    "trans": [{ "cn": "棒球", "pos": "n" }]
+  },
+  {
+    "word": "volleyball",
+    "usphone": "'vɑlɪbɔl",
+    "ukphone": "'vɒlɪbɔːl",
+    "rel_words": [],
+    "trans": [{ "cn": "排球", "pos": "n" }]
+  },
+  {
+    "word": "boring",
+    "usphone": "'bɔrɪŋ",
+    "ukphone": "'bɔːrɪŋ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "bored", "tran": " 无聊的；无趣的；烦人的" }]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "boringly", "tran": " 无趣地；沉闷地" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "bore", "tran": " 孔；令人讨厌的人" },
+          { "hwd": "boredom", "tran": " 厌倦；令人厌烦的事物" },
+          { "hwd": "borer", "tran": " 钻孔器；穿孔者" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "bored", "tran": " 使厌烦（bore的过去式）；烦扰" }]
+      },
+      { "pos": "vi", "words": [{ "hwd": "bore", "tran": " 钻孔" }] },
+      { "pos": "vt", "words": [{ "hwd": "bore", "tran": " 钻孔；使烦扰" }] }
+    ],
+    "trans": [{ "cn": "烦人的；无聊的", "pos": "adj" }]
+  },
+  {
+    "word": "exciting",
+    "usphone": "ɪk'saɪtɪŋ",
+    "ukphone": "ɪk'saɪtɪŋ; ek-",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "excited", "tran": " 兴奋的；激动的；活跃的" },
+          { "hwd": "excitable", "tran": " 易激动的；易兴奋的；易怒的" },
+          { "hwd": "excitatory", "tran": " 兴奋的；刺激性的" },
+          { "hwd": "excitant", "tran": " 刺激性的；使兴奋的" },
+          { "hwd": "excitative", "tran": " 有刺激性的；激发的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "excitedly", "tran": " 兴奋地；激动地" },
+          { "hwd": "excitingly", "tran": " 刺激地；振奋人心地" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "excitement", "tran": " 兴奋；刺激；令人兴奋的事物" },
+          { "hwd": "excitation", "tran": " 激发，刺激；激励；激动" },
+          { "hwd": "excitability", "tran": " [生理] 兴奋性，应激性；可激发性" },
+          { "hwd": "excitant", "tran": " [药] 兴奋剂；刺激物" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "excited", "tran": " 激动；唤起（excite的过去分词）" }
+        ]
+      },
+      { "pos": "vi", "words": [{ "hwd": "excite", "tran": " 激动" }] },
+      {
+        "pos": "vt",
+        "words": [{ "hwd": "excite", "tran": " 激起；刺激…，使…兴奋" }]
+      }
+    ],
+    "trans": [{ "cn": "令人激动的；使人兴奋的", "pos": "adj" }]
+  },
+  {
+    "word": "relaxing",
+    "usphone": "rɪ'læksɪŋ",
+    "ukphone": "rɪ'læksɪŋ",
+    "rel_words": [],
+    "trans": [{ "cn": "令人愉悦的；使人放松的", "pos": "adj" }]
+  },
+  {
+    "word": "score",
+    "usphone": "skɔ",
+    "ukphone": "skɔː",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "scoring", "tran": " 得分的" },
+          { "hwd": "scoreless", "tran": " 没得分的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "scoring", "tran": " 得分；刻痕；总谱" },
+          {
+            "hwd": "scorer",
+            "tran": " （竞赛等的）记分员；记录员；得分者；刻划痕迹的人"
+          },
+          { "hwd": "scorekeeper", "tran": " 得分者；记分员" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "scoring", "tran": " 得分（score的ing形式）；刻痕；记下" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "（体育比赛中）得（分）", "pos": "v" }]
+  },
+  {
+    "word": "already",
+    "usphone": "ɔl'rɛdi",
+    "ukphone": "ɔːl'redɪ",
+    "rel_words": [],
+    "trans": [{ "cn": "已经；早已", "pos": "adv" }]
+  },
+  {
+    "word": "matter",
+    "usphone": "'mætɚ",
+    "ukphone": "'mætə",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          {
+            "hwd": "matrimonial",
+            "tran": " 婚姻的；与婚姻有关的；根据结婚的惯例的"
+          }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "问题；麻烦", "pos": "n" }]
+  },
+  {
+    "word": "What's the matter?",
+    "rel_words": [],
+    "trans": [{ "cn": "怎么了？" }]
+  },
+  {
+    "word": "hurt",
+    "usphone": "hɝ​t",
+    "ukphone": "hɜːt",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "hurting", "tran": " 受伤害的；受损的" },
+          { "hwd": "hurtful", "tran": " 造成损害的" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "hurting", "tran": " 伤害；伤心；弄痛（hurt的ing形式）" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "(hurt) （使）疼痛；（使）受伤", "pos": "v" }]
+  },
+  {
+    "word": "enjoyable",
+    "usphone": "ɪn'dʒɔɪəbl",
+    "ukphone": "ɪn'dʒɒɪəb(ə)l; en-",
+    "rel_words": [
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "enjoyably", "tran": " 愉快地；有趣地；可享乐地" }]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "enjoyment", "tran": " 享受；乐趣；享有" }]
+      },
+      {
+        "pos": "vt",
+        "words": [{ "hwd": "enjoy", "tran": " 欣赏，享受；喜爱；使过得快活" }]
+      }
+    ],
+    "trans": [{ "cn": "令人愉快的；有乐趣的", "pos": "adj" }]
+  },
+  {
+    "word": "Olympics",
+    "rel_words": [],
+    "trans": [{ "cn": "奥林匹克运动会", "pos": "n" }]
+  },
+  {
+    "word": "stadium",
+    "usphone": "'stedɪəm",
+    "ukphone": "'steɪdɪəm",
+    "rel_words": [],
+    "trans": [{ "cn": "体育场", "pos": "n" }]
+  },
+  {
+    "word": "miss",
+    "usphone": "mɪs",
+    "ukphone": "mɪs",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "missing", "tran": " 失踪的；缺少的" }]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "missing", "tran": " 错过（miss的ing形式）；想念；漏掉" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "未击中；未达到", "pos": "v" }]
+  },
+  {
+    "word": "mind",
+    "usphone": "maɪnd",
+    "ukphone": "maɪnd",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          {
+            "hwd": "mindless",
+            "tran": " 愚蠢的；不小心的；不需要动脑筋的；不顾虑的"
+          },
+          { "hwd": "mindful", "tran": " 留心的；记住的；警觉的" },
+          { "hwd": "minded", "tran": " 有意的；有思想的；具有意志的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "mindlessly", "tran": " 不费心思地；愚蠢地" },
+          { "hwd": "mindfully", "tran": " 谨慎地；注意地" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "mindfulness", "tran": " 留心，警觉" },
+          { "hwd": "minder", "tran": " 看守者；照顾者" },
+          { "hwd": "mindlessness", "tran": " 不在乎，不用心；没头脑，精神缺失" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "minded", "tran": " 介意；照顾（mind的过去式）" }]
+      }
+    ],
+    "trans": [{ "cn": "介意；讨厌；反对", "pos": "v" }]
+  },
+  {
+    "word": "plenty",
+    "usphone": "'plɛnti",
+    "ukphone": "'plentɪ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "plentiful", "tran": " 丰富的；许多的；丰饶的" },
+          { "hwd": "plenteous", "tran": " 丰富的；丰饶的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "plentifully", "tran": " 丰富地，富裕地" }]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "plenitude", "tran": " 充分；丰富；大量" }]
+      }
+    ],
+    "trans": [{ "cn": "大量；众多", "pos": "pron" }]
+  },
+  { "word": "plenty of", "rel_words": [], "trans": [{ "cn": "大量；众多" }] },
+  {
+    "word": "beat",
+    "usphone": "bit",
+    "ukphone": "biːt",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "beaten", "tran": " 被打败了的；筋疲力竭的；踏平的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "beating", "tran": " 打；[纸] 打浆；敲打；失败" },
+          { "hwd": "beater", "tran": " 搅拌器；[纸] 打浆机；助猎者" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "beaten", "tran": " 打败（beat的过去分词）" },
+          { "hwd": "beating", "tran": " 打（beat的ing形式）" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "(beat) 打败；战胜", "pos": "v" }]
+  },
+  {
+    "word": "careless",
+    "usphone": "'kɛrləs",
+    "ukphone": "'keələs",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "careful", "tran": " 仔细的，小心的" },
+          { "hwd": "caring", "tran": " 有同情心的；表示或感到关怀或关心的" },
+          { "hwd": "carefree", "tran": " 无忧无虑的；不负责的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "carefully", "tran": " 小心地" },
+          { "hwd": "carelessly", "tran": " 粗心地；不注意地；无忧无虑地" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "care", "tran": " 关怀；照料；谨慎；忧虑" },
+          { "hwd": "carelessness", "tran": " 粗心大意" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "caring", "tran": " 关心；照顾（care的现在分词）" }]
+      },
+      {
+        "pos": "vi",
+        "words": [{ "hwd": "care", "tran": " 照顾；关心；喜爱；顾虑" }]
+      },
+      { "pos": "vt", "words": [{ "hwd": "care", "tran": " 在意；希望或喜欢" }] }
+    ],
+    "trans": [{ "cn": "粗心的；疏忽的", "pos": "adj" }]
+  },
+  {
+    "word": "cheer ⋯ on",
+    "rel_words": [],
+    "trans": [{ "cn": "用欢呼声激励；为⋯⋯加油" }]
+  },
+  {
+    "word": "coach",
+    "usphone": "kotʃ",
+    "ukphone": "kəʊtʃ",
+    "rel_words": [
+      {
+        "pos": "n",
+        "words": [{ "hwd": "coaching", "tran": " 辅导；教练技术" }]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "coaching", "tran": " 指导（coach的ing形式）" }]
+      }
+    ],
+    "trans": [{ "cn": "教练", "pos": "n" }]
+  },
+  {
+    "word": "fan club",
+    "rel_words": [],
+    "trans": [{ "cn": "球迷（或影迷、歌迷）俱乐部" }]
+  },
+  {
+    "word": "against",
+    "usphone": "əˈɡɛnst;əˈɡenst",
+    "ukphone": "ə'genst; ə'geɪnst",
+    "rel_words": [],
+    "trans": [{ "cn": "（在比赛或战斗中）对（某人或某事物）", "pos": "prep" }]
+  },
+  {
+    "word": "train",
+    "usphone": "tren",
+    "ukphone": "treɪn",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "trained", "tran": " 培训；训练过的，受过培训的" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "training", "tran": " 训练；培养；瞄准；整枝" },
+          {
+            "hwd": "trainee",
+            "tran": " 练习生，实习生；受训者；新兵；训练中的动物"
+          },
+          { "hwd": "trainer", "tran": " 助理教练；训练员；驯马师；飞行练习器" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "training", "tran": " 训练；教养（train的ing形式）" },
+          { "hwd": "trained", "tran": " 训练（train的过去分词）" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "（体育）训练，操练", "pos": "v" }]
+  },
+  {
+    "word": "practice",
+    "usphone": "'præktɪs",
+    "ukphone": "'præktɪs",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "practical", "tran": " 实际的；实用性的" },
+          { "hwd": "practicable", "tran": " 可用的；行得通的；可实行的" },
+          {
+            "hwd": "practiced",
+            "tran": " 熟练的；有经验的；老练的（等于practised）"
+          },
+          { "hwd": "practised", "tran": " 熟练的；老练的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "practically", "tran": " 实际地；几乎；事实上" },
+          { "hwd": "practicably", "tran": " 实用地；能用地" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "practicality", "tran": " 实用性，实际性；实际，实例" },
+          { "hwd": "practicability", "tran": " 实用性，可行性" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          {
+            "hwd": "practised",
+            "tran": " 实践；练习；惯做（practise的过去分词）"
+          }
+        ]
+      },
+      {
+        "pos": "vi",
+        "words": [
+          { "hwd": "practise", "tran": " 练习，实践；实施，实行；从事" }
+        ]
+      },
+      {
+        "pos": "vt",
+        "words": [{ "hwd": "practise", "tran": " 练习，实践；实施，实行" }]
+      }
+    ],
+    "trans": [{ "cn": "练习", "pos": "n" }]
+  },
+  {
+    "word": "warm",
+    "usphone": "wɔrm",
+    "ukphone": "wɔːm",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "warming", "tran": " 让人感到暖和的" }]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "warmly", "tran": " 热情地；温暖地；亲切地" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "warmth", "tran": " 温暖；热情；激动" },
+          { "hwd": "warmer", "tran": " 取暖器；加热器；加热工人" },
+          { "hwd": "warming", "tran": " 加温，暖和；气温升高" },
+          { "hwd": "warmness", "tran": " 温暖；亲切" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "warming", "tran": " 加温；兴奋；同情（warm的ing形式）" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "使暖和；使温暖", "pos": "v" }]
+  },
+  {
+    "word": "warm up",
+    "rel_words": [],
+    "trans": [{ "cn": "热身；做准备活动" }]
+  },
+  {
+    "word": "usual",
+    "usphone": "'juʒuəl",
+    "ukphone": "'juːʒʊəl",
+    "rel_words": [
+      { "pos": "adv", "words": [{ "hwd": "usually", "tran": " 通常，经常" }] }
+    ],
+    "trans": [{ "cn": "通常的；平常的", "pos": "adj" }]
+  },
+  {
+    "word": "better",
+    "usphone": "'bɛtɚ",
+    "ukphone": "'betə",
+    "rel_words": [
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "bet", "tran": " 打赌，赌注；被打赌的事物" },
+          { "hwd": "betterment", "tran": " 改善，改进；改良；涨价" },
+          { "hwd": "betting", "tran": " 打赌；赌博" },
+          { "hwd": "bettor", "tran": " 赌徒；打赌者" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "betting", "tran": " 打赌（bet的ing形式）；断言" }]
+      },
+      { "pos": "vi", "words": [{ "hwd": "bet", "tran": " 打赌" }] },
+      {
+        "pos": "vt",
+        "words": [{ "hwd": "bet", "tran": " 打赌；敢断定，确信" }]
+      }
+    ],
+    "trans": [
+      { "cn": "更好地", "pos": "adv" },
+      { "cn": "更好的", "pos": "adj" }
+    ]
+  },
+  {
+    "word": "after-school",
+    "usphone": "'æftəskʊl",
+    "rel_words": [],
+    "trans": [{ "cn": "下午放学后的；课外的", "pos": "adj" }]
+  },
+  {
+    "word": "pleased",
+    "usphone": "plizd",
+    "ukphone": "pliːzd",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          {
+            "hwd": "pleasant",
+            "tran": " 令人愉快的，舒适的；讨人喜欢的，和蔼可亲的"
+          },
+          { "hwd": "pleasing", "tran": " 令人愉快的；讨人喜欢的；合意的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "pleasingly", "tran": " 高兴地；喜欢地" }]
+      },
+      {
+        "pos": "int",
+        "words": [{ "hwd": "please", "tran": " 请（礼貌用语）" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "pleasure", "tran": " 快乐；希望；娱乐；令人高兴的事" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "pleasing", "tran": " 取悦（please的现在分词）" }]
+      },
+      {
+        "pos": "vi",
+        "words": [
+          { "hwd": "pleasure", "tran": " 高兴；寻欢作乐" },
+          { "hwd": "please", "tran": " 讨人喜欢；令人高兴" }
+        ]
+      },
+      {
+        "pos": "vt",
+        "words": [
+          { "hwd": "pleasure", "tran": " 使高兴；使满意" },
+          { "hwd": "please", "tran": " 使喜欢；使高兴，使满意" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "开心的；满足的", "pos": "adj" }]
+  },
+  {
+    "word": "pass",
+    "usphone": "pæs",
+    "ukphone": "pɑːs",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "passable", "tran": " 尚可的；可通行的；（钱币等）可流通的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "passably", "tran": " 尚可地；也还过得去地" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "passage", "tran": " 一段（文章）；走廊；通路" },
+          { "hwd": "passer", "tran": " 过路人；旅客；考试合格者" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "传递；传送", "pos": "v" }]
+  },
+  {
+    "word": "pity",
+    "usphone": "'pɪtɪ",
+    "ukphone": "'pɪtɪ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "pitiful", "tran": " 可怜的，令人同情的" },
+          { "hwd": "pitiable", "tran": " 可怜的" },
+          { "hwd": "pitiless", "tran": " 冷酷的，无情的；无同情心的" },
+          { "hwd": "pitying", "tran": " 同情的；怜悯的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "pitifully", "tran": " 可怜地，令人怜悯地；可恨地" },
+          { "hwd": "pitiably", "tran": " 可怜地；卑劣地" },
+          { "hwd": "pitilessly", "tran": " 无情地；冷酷地" },
+          { "hwd": "pityingly", "tran": " 同情地；怜惜地" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "pitilessness", "tran": " 无情；冷酷" }]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "pitying", "tran": " 同情（pity的ing形式）" }]
+      }
+    ],
+    "trans": [{ "cn": "可惜；遗憾", "pos": "n" }]
+  },
+  {
+    "word": "chance",
+    "usphone": "tʃæns",
+    "ukphone": "tʃɑːns",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "chancy", "tran": " 不确实的；偶然发生的；不安的" }]
+      }
+    ],
+    "trans": [{ "cn": "可能性；机会", "pos": "n" }]
+  },
+  {
+    "word": "loudly",
+    "usphone": "'laʊdli",
+    "ukphone": "'laʊdlɪ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "loud", "tran": " 大声的，高声的；不断的；喧吵的" }]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "loud", "tran": " 大声地，高声地，响亮地" }]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "loudness", "tran": " [声] 响度；吵闹" }]
+      },
+      { "pos": "vi", "words": [{ "hwd": "louden", "tran": " 变响亮" }] },
+      { "pos": "vt", "words": [{ "hwd": "louden", "tran": " 提高声音" }] }
+    ],
+    "trans": [{ "cn": "响亮地；大声地", "pos": "adv" }]
+  },
+  {
+    "word": "confident",
+    "usphone": "'kɑnfɪdənt",
+    "ukphone": "'kɒnfɪd(ə)nt",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "confidence", "tran": " （美）诈骗的；骗得信任的" }]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "confidently", "tran": " 自信地；安心地" }]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "confidence", "tran": " 信心；信任；秘密" }]
+      }
+    ],
+    "trans": [{ "cn": "自信的", "pos": "adj" }]
+  },
+  {
+    "word": "road",
+    "usphone": "rod",
+    "ukphone": "rəʊd",
+    "rel_words": [
+      { "pos": "adj", "words": [{ "hwd": "roadless", "tran": " 没有路的" }] },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "roadway", "tran": " 道路；路面；车行道；铁路的路基" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "路；（尤指）公路", "pos": "n" }]
+  },
+  {
+    "word": "accident",
+    "usphone": "'æksədənt",
+    "ukphone": "'æksɪdənt",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "accidental", "tran": " 意外的；偶然的；附属的；临时记号的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "accidentally", "tran": " 意外地；偶然地" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "accidental", "tran": " 次要方面；非主要的特性；临时记号" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "交通事故；意外事件", "pos": "n" }]
+  },
+  {
+    "word": "except",
+    "usphone": "ɪk'sɛpt",
+    "ukphone": "ɪkˈsept",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "exceptional", "tran": " 异常的，例外的" },
+          { "hwd": "exceptionable", "tran": " 可反对的；可抗议的；引起反感的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "exceptionally", "tran": " 异常地；特殊地；例外地" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "exception", "tran": " 例外；异议" },
+          { "hwd": "exceptional", "tran": " 超常的学生" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "除⋯⋯之外", "pos": "prep" }]
+  },
+  {
+    "word": "choice",
+    "usphone": "tʃɔɪs",
+    "ukphone": "tʃɒɪs",
+    "rel_words": [
+      {
+        "pos": "n",
+        "words": [{ "hwd": "choiceness", "tran": " 优良；精选；上等" }]
+      }
+    ],
+    "trans": [{ "cn": "选择", "pos": "n" }]
+  },
+  {
+    "word": "classmate",
+    "usphone": "'klæsmet",
+    "ukphone": "'klɑːsmeɪt",
+    "rel_words": [],
+    "trans": [{ "cn": "同班同学", "pos": "n" }]
+  },
+  {
+    "word": "far",
+    "usphone": "fɑr",
+    "ukphone": "fɑː",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "faraway", "tran": " 遥远的；恍惚的" }]
+      },
+      { "pos": "n", "words": [{ "hwd": "farness", "tran": " 远" }] }
+    ],
+    "trans": [
+      { "cn": "远；遥远", "pos": "adv" },
+      { "cn": "远的；遥远的", "pos": "adj" }
+    ]
+  },
+  { "word": "far from", "rel_words": [], "trans": [{ "cn": "远离" }] },
+  {
+    "word": "close",
+    "usphone": "kloz",
+    "ukphone": "kləʊs",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "closed", "tran": " 关着的；不公开的" },
+          { "hwd": "closer", "tran": " 靠近的" },
+          { "hwd": "closing", "tran": " 收盘的；结束的；结尾的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "closely", "tran": " 紧密地；接近地；严密地；亲近地" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "closure", "tran": " 关闭；终止，结束" },
+          { "hwd": "closer", "tran": " [自] 闭合器；最后的节目" },
+          { "hwd": "closing", "tran": " 结尾辞" },
+          { "hwd": "closeness", "tran": " 亲密；接近；密闭；严密" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "closed", "tran": " 关；结束；接近（close的过去分词）" },
+          { "hwd": "closing", "tran": " 关闭（close的ing形式）" }
+        ]
+      },
+      { "pos": "vt", "words": [{ "hwd": "closure", "tran": " 使终止" }] }
+    ],
+    "trans": [
+      { "cn": "（距离上）近的，接近的", "pos": "adj" },
+      { "cn": "（距离上）接近地", "pos": "adv" }
+    ]
+  },
+  {
+    "word": "crowded",
+    "usphone": "'kraʊdɪd",
+    "ukphone": "'kraʊdɪd",
+    "rel_words": [
+      {
+        "pos": "n",
+        "words": [{ "hwd": "crowd", "tran": " 人群；一堆；一帮" }]
+      },
+      { "pos": "vi", "words": [{ "hwd": "crowd", "tran": " 拥挤，挤；聚集" }] },
+      {
+        "pos": "vt",
+        "words": [{ "hwd": "crowd", "tran": " 挤满；将…塞进；催逼，催促" }]
+      }
+    ],
+    "trans": [{ "cn": "拥挤的；人数过多的", "pos": "adj" }]
+  },
+  {
+    "word": "all the time",
+    "rel_words": [],
+    "trans": [{ "cn": "一直；不断地" }]
+  },
+  {
+    "word": "journey",
+    "usphone": "ˈdʒɝ​nɪ",
+    "ukphone": "'dʒɜːnɪ",
+    "rel_words": [],
+    "trans": [{ "cn": "旅行；旅程", "pos": "n" }]
+  },
+  {
+    "word": "book",
+    "usphone": "bʊk",
+    "ukphone": "bʊk",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "bookish", "tran": " 书本上的；好读书的；书呆子气的" },
+          { "hwd": "bookable", "tran": " （英）可预订的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "booking", "tran": " 预订；预约；演出契约" },
+          {
+            "hwd": "booker",
+            "tran": " （旅馆车票，戏票等的）登记人；寻选模特儿的人"
+          },
+          { "hwd": "bookishness", "tran": " 书呆子气；学究气" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "预订", "pos": "v" }]
+  },
+  {
+    "word": "park",
+    "usphone": "pɑrk",
+    "ukphone": "pɑːk",
+    "rel_words": [
+      { "pos": "adj", "words": [{ "hwd": "parking", "tran": " 停车的" }] },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "parking", "tran": " 停车" },
+          { "hwd": "parker", "tran": " 停放车辆的人" },
+          { "hwd": "parkway", "tran": " 驾车专用道路；[建] 公园道路" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "parking", "tran": " 停车（park的ing形式）" }]
+      }
+    ],
+    "trans": [{ "cn": "停放（车）；泊（车）", "pos": "v" }]
+  },
+  {
+    "word": "outside",
+    "usphone": ",aʊt'saɪd",
+    "ukphone": "aʊt'saɪd; 'aʊtsaɪd",
+    "rel_words": [
+      {
+        "pos": "n",
+        "words": [{ "hwd": "outsider", "tran": " 外人；无取胜希望者" }]
+      }
+    ],
+    "trans": [
+      { "cn": "在⋯⋯之外", "pos": "prep" },
+      { "cn": "在外面；朝户外", "pos": "adv" },
+      { "cn": "外面；外部", "pos": "n" },
+      { "cn": "外部的；外表的", "pos": "adj" }
+    ]
+  },
+  {
+    "word": "however",
+    "usphone": "haʊ'ɛvɚ",
+    "ukphone": "haʊ'evə",
+    "rel_words": [],
+    "trans": [{ "cn": "然而；但是", "pos": "adv" }]
+  },
+  {
+    "word": "cost",
+    "usphone": "kɔst",
+    "ukphone": "kɒst",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "costly", "tran": " 昂贵的；代价高的" },
+          { "hwd": "costless", "tran": " 不花钱的；无须付出代价的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "costing", "tran": " 成本计算；生产费用" }]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "costing", "tran": " 花费（cost的ing形式）" }]
+      }
+    ],
+    "trans": [
+      { "cn": "(cost) 价钱为；花费", "pos": "v" },
+      { "cn": "价钱；成本；代价", "pos": "n" }
+    ]
+  },
+  {
+    "word": "actress",
+    "usphone": "'æktrɪs",
+    "ukphone": "'æktrɪs",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "acting", "tran": " 代理的；装腔作势的" },
+          { "hwd": "actable", "tran": " 能演出的；能实行的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          {
+            "hwd": "act",
+            "tran": " 行为，行动；法令，法案；（戏剧，歌剧的）一幕，段；装腔作势"
+          },
+          { "hwd": "actor", "tran": " 男演员；行动者；作用物" },
+          { "hwd": "acting", "tran": " 演技；演戏；假装" }
+        ]
+      },
+      {
+        "pos": "vi",
+        "words": [
+          {
+            "hwd": "act",
+            "tran": " 行动；扮演，充当；表现，举止；假装，演戏；起作用，见效"
+          }
+        ]
+      },
+      {
+        "pos": "vt",
+        "words": [{ "hwd": "act", "tran": " 扮演；装作，举动像" }]
+      }
+    ],
+    "trans": [{ "cn": "女演员", "pos": "n" }]
+  },
+  {
+    "word": "teahouse",
+    "ukphone": "'tiːhaʊs",
+    "rel_words": [],
+    "trans": [{ "cn": "（尤指亚洲的）茶馆", "pos": "n" }]
+  },
+  {
+    "word": "offer",
+    "usphone": "'ɔfɚ",
+    "ukphone": "'ɒfə",
+    "rel_words": [
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "offering", "tran": " 提供；祭品；奉献物；牲礼" },
+          { "hwd": "offeror", "tran": " 要约人；报价人；发盘人" },
+          { "hwd": "offerer", "tran": " [贸易] 发价人；报价人" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "offering", "tran": " 提供（offer的ing形式）" }]
+      }
+    ],
+    "trans": [{ "cn": "提议；提出", "pos": "v" }]
+  },
+  {
+    "word": "end",
+    "usphone": "ɛnd",
+    "ukphone": "end",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "endless", "tran": " 无止境的；连续的；环状的；漫无目的的" },
+          { "hwd": "endmost", "tran": " 位于最末端的" },
+          {
+            "hwd": "endwise",
+            "tran": " 直立着的；向前的；末端朝前或向上的（等于endways）"
+          }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "endlessly", "tran": " 不断地；无穷尽地" },
+          {
+            "hwd": "endwise",
+            "tran": " 竖着；末端向前地；两端首尾相接；向着两端（等于endways）"
+          }
+        ]
+      },
+      { "pos": "n", "words": [{ "hwd": "ending", "tran": " 结局；结尾" }] }
+    ],
+    "trans": [
+      { "cn": "（时间的）最后一段，末尾", "pos": "n" },
+      { "cn": "结束", "pos": "v" }
+    ]
+  },
+  { "word": "in the end", "rel_words": [], "trans": [{ "cn": "最后；终于" }] },
+  { "word": "no idea", "rel_words": [], "trans": [{ "cn": "不知道" }] },
+  {
+    "word": "act",
+    "usphone": "ækt",
+    "ukphone": "ækt",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          {
+            "hwd": "active",
+            "tran": " 积极的；活跃的；主动的；有效的；现役的"
+          },
+          { "hwd": "acting", "tran": " 代理的；装腔作势的" },
+          { "hwd": "activated", "tran": " 活性化的；活泼的" },
+          { "hwd": "actable", "tran": " 能演出的；能实行的" },
+          { "hwd": "actinic", "tran": " 化学线作用的；化学线的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "active", "tran": " 主动语态；积极分子" },
+          { "hwd": "action", "tran": " 行动；活动；功能；战斗；情节" },
+          { "hwd": "activity", "tran": " 活动；行动；活跃" },
+          { "hwd": "actor", "tran": " 男演员；行动者；作用物" },
+          { "hwd": "actress", "tran": " 女演员" },
+          { "hwd": "activation", "tran": " [电子][物] 激活；活化作用" },
+          { "hwd": "acting", "tran": " 演技；演戏；假装" },
+          { "hwd": "activism", "tran": " 行动主义；激进主义" },
+          {
+            "hwd": "actinism",
+            "tran": " 光化性，[光] 光化度；[化学] 光化作用"
+          },
+          { "hwd": "activeness", "tran": " 主观能动性；活动积极性" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          {
+            "hwd": "activated",
+            "tran": " 使激活；使活动起来；有生气（activate的过去分词）"
+          }
+        ]
+      },
+      {
+        "pos": "vi",
+        "words": [{ "hwd": "activate", "tran": " 激活；有活力" }]
+      },
+      {
+        "pos": "vt",
+        "words": [
+          { "hwd": "activate", "tran": " 刺激；使活动；使活泼；使产生放射性" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "（戏剧、歌剧或芭蕾舞的）一幕", "pos": "n" }]
+  },
+  {
+    "word": "show",
+    "usphone": "ʃo",
+    "ukphone": "ʃəʊ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "showy", "tran": " 艳丽的；炫耀的；显眼的" }]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "showily", "tran": " 华贵地；炫耀地" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "showing", "tran": " 放映；表演；陈列" },
+          { "hwd": "shew", "tran": " 展览；表示（等于show）" },
+          { "hwd": "showmanship", "tran": " 表演技巧；吸引观众的窍门" },
+          { "hwd": "showiness", "tran": " 炫耀；卖弄；华丽" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "showing", "tran": " 展示（show的ing形式）" },
+          { "hwd": "shew", "tran": " 展出；炫耀，卖弄（show的过去分词）" }
+        ]
+      }
+    ],
+    "trans": [
+      { "cn": "展示；显示", "pos": "v" },
+      { "cn": "演出；表演", "pos": "n" }
+    ]
+  },
+  {
+    "word": "common",
+    "usphone": "'kɑmən",
+    "ukphone": "'kɒmən",
+    "rel_words": [
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "commonly", "tran": " 一般地；通常地；普通地" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "commonality", "tran": " 公共；共性；平民" },
+          { "hwd": "commoner", "tran": " 平民；自费学生；下议院议员" },
+          { "hwd": "commonness", "tran": " 共性；平凡" },
+          { "hwd": "commonage", "tran": " 共用权；大众；共有地" },
+          { "hwd": "commonalty", "tran": " 平民；法人团体；团体" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "普通的；一般的", "pos": "adj" }]
+  },
+  {
+    "word": "twentieth",
+    "usphone": "ˈtwɛntɪɪθ",
+    "ukphone": "ˈtwentɪəθ",
+    "rel_words": [
+      { "pos": "adj", "words": [{ "hwd": "twenty", "tran": " 二十的" }] },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "twenty", "tran": " 二十；二十年代" },
+          {
+            "hwd": "twenties",
+            "tran": " 二十几岁；二十年代（1920年到1929年的时期）；一生中20至29岁的十年"
+          }
+        ]
+      },
+      { "pos": "num", "words": [{ "hwd": "twenty", "tran": " 二十" }] }
+    ],
+    "trans": [{ "cn": "第二十", "pos": "num" }]
+  },
+  {
+    "word": "describe",
+    "usphone": "dɪ'skraɪb",
+    "ukphone": "dɪ'skraɪb",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "descriptive", "tran": " 描写的，叙述的；描写性的" },
+          { "hwd": "described", "tran": " 描述的" },
+          { "hwd": "describable", "tran": " 可记述的；可描写的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "descriptively", "tran": " 叙述地" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "description", "tran": " 描述，描写；类型；说明书" },
+          { "hwd": "descriptivism", "tran": " 描写主义；描述主义；描述论" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "described", "tran": " 描述，描写（describe的过去式）" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "描写；描述", "pos": "v" }]
+  },
+  {
+    "word": "society",
+    "usphone": "səˈsaɪətɪ",
+    "ukphone": "sə'saɪətɪ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "social", "tran": " 社会的，社交的；群居的" },
+          { "hwd": "societal", "tran": " 社会的" },
+          { "hwd": "socialist", "tran": " 社会主义的" },
+          { "hwd": "socioeconomic", "tran": " 社会经济学的" },
+          {
+            "hwd": "sociological",
+            "tran": " 社会的（等于sociologic）；社会学的；针对社会问题的"
+          },
+          { "hwd": "sociocultural", "tran": " 社会与文化的" },
+          { "hwd": "socialized", "tran": " 社会化" },
+          { "hwd": "socialistic", "tran": " 社会主义的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "socially", "tran": " 在社会上；在社交方面；善于交际地" },
+          { "hwd": "sociologically", "tran": " 在社会学上地；社会上" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "social", "tran": " 联谊会；联欢会" },
+          { "hwd": "sociology", "tran": " 社会学；群体生态学" },
+          { "hwd": "socialism", "tran": " 社会主义" },
+          { "hwd": "socialist", "tran": " 社会主义者；社会党党员" },
+          { "hwd": "sociologist", "tran": " 社会学家" },
+          { "hwd": "socialization", "tran": " 社会化，社会主义化" },
+          { "hwd": "socialisation", "tran": " 社会化" },
+          { "hwd": "sociality", "tran": " 社会性；社交；好交际" },
+          { "hwd": "sociobiology", "tran": " 生物社会学" },
+          { "hwd": "sociolinguistics", "tran": " 社会语言学" },
+          { "hwd": "sociobiologist", "tran": " 社会生物学家" },
+          { "hwd": "sociometry", "tran": " 社会人际学；计量社会学" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          {
+            "hwd": "socialized",
+            "tran": " 使社会化（socialize的过去分词）；社交"
+          }
+        ]
+      },
+      {
+        "pos": "vi",
+        "words": [
+          { "hwd": "socialize", "tran": " 交际；参与社交" },
+          {
+            "hwd": "socialise",
+            "tran": " 参加社交活动；发生社交往来（等于socialize）"
+          }
+        ]
+      },
+      {
+        "pos": "vt",
+        "words": [
+          {
+            "hwd": "socialize",
+            "tran": " 使社会化；使社会主义化；使适应社会生活"
+          },
+          { "hwd": "socialise", "tran": " 使社会化；使社会主义化" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "社会", "pos": "n" }]
+  },
+  { "word": "head teacher", "rel_words": [], "trans": [{ "cn": "校长" }] },
+  {
+    "word": "college",
+    "usphone": "'kɑlɪdʒ",
+    "ukphone": "'kɒlɪdʒ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "collegial", "tran": " 学院的；社团的；大学生的" },
+          { "hwd": "collegiate", "tran": " 大学的；学院的；大学生的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "collegian", "tran": " 学院的学生；学院的一员" }]
+      }
+    ],
+    "trans": [{ "cn": "大学；学院", "pos": "n" }]
+  },
+  {
+    "word": "novel",
+    "usphone": "ˈnɑːvl",
+    "ukphone": "'nɒv(ə)l",
+    "rel_words": [
+      {
+        "pos": "n",
+        "words": [
+          {
+            "hwd": "novelty",
+            "tran": " 新奇；新奇的事物；新颖小巧而廉价的物品"
+          },
+          { "hwd": "novelist", "tran": " 小说家" }
+        ]
+      },
+      {
+        "pos": "vt",
+        "words": [{ "hwd": "novelize", "tran": " 使小说化；编成小说" }]
+      }
+    ],
+    "trans": [{ "cn": "（长篇）小说", "pos": "n" }]
+  },
+  {
+    "word": "name",
+    "usphone": "nem",
+    "ukphone": "neɪm",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "named", "tran": " 命名的；指定的；被指名的" },
+          { "hwd": "nameless", "tran": " 不可名状的，难以形容的；匿名的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "naming", "tran": " 命名" },
+          { "hwd": "namer", "tran": " 指名者，命名者" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "named", "tran": " 命名；任命（name的过去分词）；称呼" },
+          { "hwd": "naming", "tran": " 给…取名字（name的ing形式）" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "给⋯⋯取名；给⋯⋯命名", "pos": "v" }]
+  },
+  {
+    "word": "if",
+    "usphone": "ɪf",
+    "ukphone": "ɪf",
+    "rel_words": [],
+    "trans": [{ "cn": "如果；若", "pos": "conj" }]
+  },
+  {
+    "word": "magic",
+    "usphone": "'mædʒɪk",
+    "ukphone": "'mædʒɪk",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "magical", "tran": " 魔术的；有魔力的" }]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "magically", "tran": " 用魔法地；如魔法般地" }]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "magician", "tran": " 魔术师，变戏法的人" }]
+      }
+    ],
+    "trans": [{ "cn": "魔术的；戏法的", "pos": "adj" }]
+  },
+  {
+    "word": "snake",
+    "usphone": "snek",
+    "ukphone": "sneɪk",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "snakelike", "tran": " 蛇形的；蛇一般的" },
+          { "hwd": "snaky", "tran": " 阴险的；弯弯曲曲的；似蛇的" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "蛇", "pos": "n" }]
+  },
+  {
+    "word": "neck",
+    "usphone": "nɛk",
+    "ukphone": "nek",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "necked", "tran": " 收缩的；变窄的" }]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "necking", "tran": " 柱颈；柱头；搂脖子接吻" }]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "necking", "tran": " 变细；使变窄（neck的现在分词）" },
+          { "hwd": "necked", "tran": " 变细；与…亲嘴；宰杀（neck的过去分词）" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "颈；脖子", "pos": "n" }]
+  },
+  {
+    "word": "thin",
+    "usphone": "θɪn",
+    "ukphone": "θɪn",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "thinner", "tran": " 薄的；瘦的；细的" }]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "thinly", "tran": " 薄；稀疏地；细；瘦" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "thinner", "tran": " 稀释剂，冲淡剂" },
+          { "hwd": "thinned", "tran": " 揭薄" },
+          { "hwd": "thinness", "tran": " 薄；瘦；细" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "thinned", "tran": " 变薄（thin的过去式）" }]
+      }
+    ],
+    "trans": [{ "cn": "薄的；细长的", "pos": "adj" }]
+  },
+  {
+    "word": "danger",
+    "usphone": "'dendʒɚ",
+    "ukphone": "ˈdeɪndʒə(r)",
+    "rel_words": [
+      { "pos": "adj", "words": [{ "hwd": "dangerous", "tran": " 危险的" }] },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "dangerously", "tran": " 危险地；不安全" }]
+      },
+      { "pos": "n", "words": [{ "hwd": "dangerousness", "tran": " 危险" }] }
+    ],
+    "trans": [{ "cn": "危险；危害", "pos": "n" }]
+  },
+  { "word": "in danger", "rel_words": [], "trans": [{ "cn": "处于危险中" }] },
+  { "word": "at last", "rel_words": [], "trans": [{ "cn": "终于；最后" }] },
+  {
+    "word": "interested",
+    "usphone": "'ɪntrəstɪd",
+    "ukphone": "'ɪntrəstɪd",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "interesting", "tran": " 有趣的；引起兴趣的，令人关注的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "interestingly", "tran": " 有趣地" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "interest", "tran": " 兴趣，爱好；利息；趣味；同行" }
+        ]
+      },
+      {
+        "pos": "vt",
+        "words": [
+          { "hwd": "interest", "tran": " 使……感兴趣；引起……的关心；使……参与" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "关心的；感兴趣的", "pos": "adj" }]
+  },
+  {
+    "word": "allow",
+    "usphone": "ə'laʊ",
+    "ukphone": "ə'laʊ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "allowable", "tran": " 许可的；正当的；可承认的；可获宽免" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "allowably", "tran": " 可容许地，不碍事地" }]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "allowance", "tran": " 津贴，零用钱；允许；限额" }]
+      },
+      { "pos": "vt", "words": [{ "hwd": "allowance", "tran": " 定量供应" }] }
+    ],
+    "trans": [{ "cn": "允许；准许", "pos": "v" }]
+  },
+  { "word": "think of", "rel_words": [], "trans": [{ "cn": "想到；想出" }] },
+  {
+    "word": "protect",
+    "usphone": "prə'tɛkt",
+    "ukphone": "prə'tekt",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "protective", "tran": " 防护的；关切保护的；保护贸易的" },
+          { "hwd": "protecting", "tran": " 保护的；防护的" },
+          { "hwd": "protectionist", "tran": " 贸易保护主义的；保护贸易论的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "protectively", "tran": " 保护地；防护地" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "protection", "tran": " 保护；防卫；护照" },
+          { "hwd": "protector", "tran": " 保护器；保护者；保护装置；防御者" },
+          { "hwd": "protectionism", "tran": " 保护主义，贸易保护主义" },
+          { "hwd": "protectionist", "tran": " 贸易保护主义者" },
+          {
+            "hwd": "protectorate",
+            "tran": " 保护国；摄政政体；摄政职位；摄政任期"
+          },
+          { "hwd": "protectiveness", "tran": " 保护；防护" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "protecting", "tran": " 保护；防护（protect的ing形式）" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "保护；保卫", "pos": "v" }]
+  },
+  {
+    "word": "wild",
+    "usphone": "waɪld",
+    "ukphone": "waɪld",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "wilding", "tran": " 野生的；未驯服的" }]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "wildly", "tran": " 野生地；野蛮地；狂暴地；鲁莽地" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "wilder", "tran": " 撒野者" },
+          { "hwd": "wildness", "tran": " 野蛮；原始；荒凉" },
+          { "hwd": "wilding", "tran": " 野生植物；野生苹果" }
+        ]
+      },
+      { "pos": "vi", "words": [{ "hwd": "wilder", "tran": " 迷失；迷惑" }] },
+      {
+        "pos": "vt",
+        "words": [
+          { "hwd": "wilder", "tran": " 使迷惑；使迷途" },
+          { "hwd": "wilding", "tran": " （美）打劫，闹事" }
+        ]
+      }
+    ],
+    "trans": [
+      { "cn": "野生的", "pos": "adj" },
+      { "cn": "野生环境", "pos": "n" }
+    ]
+  },
+  {
+    "word": "grow",
+    "usphone": "ɡro",
+    "ukphone": "grəʊ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "grown", "tran": " 长大的；成年的；长满某物的" },
+          { "hwd": "growing", "tran": " 发展的；成长的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "growth", "tran": " 增长；发展；生长；种植" },
+          { "hwd": "grower", "tran": " 栽培者；生长物" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "grown", "tran": " 生长；变成；栽培（grow的过去分词）" },
+          { "hwd": "growing", "tran": " 生长（grow的ing形式）" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "(grew) （逐渐）变得；生长", "pos": "v" }]
+  },
+  { "word": "take away", "rel_words": [], "trans": [{ "cn": "夺去；拿走" }] },
+  {
+    "word": "enough",
+    "usphone": "ɪ'nʌf",
+    "ukphone": "ɪ'nʌf",
+    "rel_words": [],
+    "trans": [{ "cn": "足够的；充分的", "pos": "adj" }]
+  },
+  {
+    "word": "peace",
+    "usphone": "pis",
+    "ukphone": "piːs",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "peaceful", "tran": " 和平的，爱好和平的；平静的" },
+          { "hwd": "peaceable", "tran": " 和平的；平静的；温顺的" },
+          { "hwd": "peacekeeping", "tran": " 维护和平的；执行停火协定的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "peacefully", "tran": " 平静地" },
+          { "hwd": "peaceably", "tran": " 和平地；温和地" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "peacefulness", "tran": " 平静；温和" }]
+      }
+    ],
+    "trans": [{ "cn": "和平；太平", "pos": "n" }]
+  },
+  {
+    "word": "in peace",
+    "rel_words": [],
+    "trans": [{ "cn": "和平地；平静地" }]
+  },
+  {
+    "word": "notice",
+    "usphone": "'notɪs",
+    "ukphone": "'nəʊtɪs",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "noted", "tran": " 著名的；显著的；附有乐谱的" },
+          { "hwd": "noticeable", "tran": " 显而易见的，显著的；值得注意的" },
+          { "hwd": "noteworthy", "tran": " 值得注意的；显著的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "noticeably", "tran": " 显著地，明显地；引人注目地" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "notification", "tran": " 通知；通告；[法] 告示" }]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "noted", "tran": " 注意；记下（note的过去式和过去分词）" }
+        ]
+      },
+      {
+        "pos": "vt",
+        "words": [{ "hwd": "notify", "tran": " 通告，通知；公布" }]
+      }
+    ],
+    "trans": [{ "cn": "布告；告示", "pos": "n" }]
+  },
+  { "word": "look after", "rel_words": [], "trans": [{ "cn": "照顾；照管" }] },
+  {
+    "word": "raise",
+    "usphone": "rez",
+    "ukphone": "reɪz",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "raised", "tran": " 凸起的；发酵的；浮雕的" }]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "raising", "tran": " 高地；提高；举；浮雕装饰" }]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "raised", "tran": " 提高（raise的过去时和过去分词）；举起" },
+          { "hwd": "raising", "tran": " 饲养；升起；举起（raise的ing形式）" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "筹集（钱款）；抚养；养育", "pos": "v" }]
+  },
+  {
+    "word": "research",
+    "usphone": "'risɝtʃ",
+    "ukphone": "rɪ'sɜːtʃ; 'riːsɜːtʃ",
+    "rel_words": [
+      { "pos": "n", "words": [{ "hwd": "researcher", "tran": " 研究员" }] }
+    ],
+    "trans": [{ "cn": "研究；探讨", "pos": "n" }]
+  },
+  {
+    "word": "baby",
+    "usphone": "bebɪ",
+    "ukphone": "'beɪbɪ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "babyish", "tran": " 幼稚的；愚蠢的；适于婴儿的" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "babe", "tran": " 婴儿，小孩；女孩；天真幼稚的人" },
+          { "hwd": "babyhood", "tran": " 婴儿；婴儿时代；幼稚" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "婴儿；婴孩", "pos": "n" }]
+  },
+  {
+    "word": "situation",
+    "usphone": "ˌsɪtʃʊˈeʃən",
+    "ukphone": "sɪtjʊ'eɪʃ(ə)n",
+    "rel_words": [
+      { "pos": "n", "words": [{ "hwd": "site", "tran": " 地点；位置；场所" }] },
+      { "pos": "vt", "words": [{ "hwd": "site", "tran": " 设置；为…选址" }] }
+    ],
+    "trans": [{ "cn": "形势；情况", "pos": "n" }]
+  },
+  {
+    "word": "scientist",
+    "usphone": "'saɪəntɪst",
+    "ukphone": "'saɪəntɪst",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "scientific", "tran": " 科学的，系统的" }]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "scientifically", "tran": " 系统地；合乎科学地；学问上" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "science", "tran": " 科学；技术；学科；理科" }]
+      }
+    ],
+    "trans": [{ "cn": "科学家", "pos": "n" }]
+  },
+  {
+    "word": "produce",
+    "usphone": "prəˈdus;(for n.)ˈprɒdus; prɑdus",
+    "ukphone": "prəˈdju:s;(for n.)ˈprɒdju:s",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          {
+            "hwd": "productive",
+            "tran": " 能生产的；生产的，生产性的；多产的；富有成效的"
+          },
+          { "hwd": "produced", "tran": " 引长的；畸形地伸长的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "production", "tran": " 成果；产品；生产；作品" },
+          { "hwd": "productivity", "tran": " 生产力；生产率；生产能力" },
+          { "hwd": "producer", "tran": " 制作人，制片人；生产者；发生器" },
+          {
+            "hwd": "productiveness",
+            "tran": " 赢利性；生产率，生产能力；多产性"
+          }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          {
+            "hwd": "produced",
+            "tran": " 产生；制造（produce的过去式和过去分词）；创作"
+          }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "生育；繁殖", "pos": "v" }]
+  },
+  {
+    "word": "southwest",
+    "usphone": ",saʊθ'wɛst",
+    "ukphone": ",saʊθ'west",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "southerly", "tran": " 来自南方的；向南的" },
+          { "hwd": "southwesterly", "tran": " 来自西南的；往西南的" },
+          {
+            "hwd": "southwestward",
+            "tran": " 向西南的；来自西南方的；在西南方的"
+          }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "southerly", "tran": " 来自南方；向南" },
+          { "hwd": "southwards", "tran": " 往南地；在南方" },
+          { "hwd": "southwesterly", "tran": " 来自西南；往西南" },
+          { "hwd": "southwestward", "tran": " 往西南方" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "southerner", "tran": " 南方人" },
+          { "hwd": "southerly", "tran": " 南风" },
+          { "hwd": "southwestward", "tran": " 西南" }
+        ]
+      }
+    ],
+    "trans": [
+      { "cn": "西南", "pos": "n" },
+      { "cn": "西南的；朝西南的", "pos": "adj" }
+    ]
+  },
+  { "word": "in order to", "rel_words": [], "trans": [{ "cn": "为了" }] },
+  {
+    "word": "government",
+    "usphone": "'ɡʌvɚnmənt",
+    "ukphone": "ˈgʌvənmənt",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "governmental", "tran": " 政府的；政治的；统治上的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          {
+            "hwd": "governor",
+            "tran": " 主管人员；统治者，管理者；[自] 调节器；地方长官"
+          },
+          { "hwd": "governance", "tran": " 管理；统治；支配" }
+        ]
+      },
+      {
+        "pos": "vi",
+        "words": [{ "hwd": "govern", "tran": " 居支配地位；进行统治" }]
+      },
+      {
+        "pos": "vt",
+        "words": [{ "hwd": "govern", "tran": " 管理；支配；统治；控制" }]
+      }
+    ],
+    "trans": [{ "cn": "政府", "pos": "n" }]
+  },
+  {
+    "word": "set",
+    "usphone": "sɛt",
+    "ukphone": "set",
+    "rel_words": [
+      {
+        "pos": "n",
+        "words": [
+          {
+            "hwd": "setter",
+            "tran": " [机] 调节器；作曲者；排字工人；安装员，从事安装的人"
+          }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "设置；设定", "pos": "v" }]
+  },
+  {
+    "word": "set up",
+    "rel_words": [],
+    "trans": [{ "cn": "开办；设立；创办；建立" }]
+  },
+  {
+    "word": "nature",
+    "usphone": "'netʃɚ",
+    "ukphone": "'neɪtʃə",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "natural", "tran": " 自然的；物质的；天生的；不做作的" },
+          {
+            "hwd": "naturalist",
+            "tran": " 自然的（等于naturalistic）；自然主义的；博物学的"
+          },
+          { "hwd": "naturalistic", "tran": " 自然的；自然主义的；博物学的" },
+          {
+            "hwd": "naturalized",
+            "tran": " 归化的；入籍的；[动] 自然化的；驯化的"
+          }
+        ]
+      },
+      { "pos": "adv", "words": [{ "hwd": "naturally", "tran": " 自然地" }] },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "natural", "tran": " 自然的事情；白痴；本位音" },
+          {
+            "hwd": "naturalist",
+            "tran": " 自然主义者；博物学者；（英）动物标本剥制者；买卖玩赏动物的商人"
+          },
+          { "hwd": "naturalism", "tran": " 自然主义；本能行动；自然论" },
+          { "hwd": "naturalness", "tran": " 当然，自然" },
+          { "hwd": "naturism", "tran": " 对自然现象的崇拜；裸体主义" },
+          { "hwd": "naturopath", "tran": " 理疗家；自然疗者" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          {
+            "hwd": "naturalized",
+            "tran": " 使自然化；接受…入国籍；采纳（naturalize的过去式和过去分词）"
+          }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "大自然；自然界", "pos": "n" }]
+  },
+  { "word": "nature park", "rel_words": [], "trans": [{ "cn": "自然公园" }] },
+  {
+    "word": "develop",
+    "usphone": "dɪ'vɛləp",
+    "ukphone": "dɪ'veləp",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "developed", "tran": " 发达的（国家或地区）；成熟的" },
+          { "hwd": "developing", "tran": " 发展中的" },
+          { "hwd": "developmental", "tran": " 发展的；启发的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          {
+            "hwd": "development",
+            "tran": " 发展；开发；发育；住宅小区（专指由同一开发商开发的）；[摄] 显影"
+          },
+          { "hwd": "developing", "tran": " [摄] 显影" },
+          { "hwd": "developer", "tran": " 开发者；[摄] 显影剂" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "developing", "tran": " 发展（develop的ing形式）" }]
+      }
+    ],
+    "trans": [{ "cn": "研制；制定", "pos": "v" }]
+  },
+  {
+    "word": "feed",
+    "usphone": "fid",
+    "ukphone": "fiːd",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "feeding", "tran": " 供给饲料的；摄取食物的" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "feeder", "tran": " 支线；喂食器；奶瓶；饲养员；支流" },
+          { "hwd": "feeding", "tran": " 饲养；吃；输送" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "feeding", "tran": " 饲养（feed的ing形式）" }]
+      }
+    ],
+    "trans": [{ "cn": "(fed) 喂养；饲养", "pos": "v" }]
+  },
+  {
+    "word": "symbol",
+    "usphone": "'sɪmbl",
+    "ukphone": "'sɪmb(ə)l",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "symbolic", "tran": " 象征的；符号的；使用符号的" }]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "symbolically", "tran": " 象征性地；象征意义地" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "symbolism", "tran": " 象征，象征主义；符号论；记号" },
+          { "hwd": "symbolization", "tran": " 象征；符号表现；象征作用" },
+          {
+            "hwd": "symbology",
+            "tran": " 符号学，符号使用；象征学，象征的使用"
+          },
+          {
+            "hwd": "symbolisation",
+            "tran": " 象征，记号表现（等于symbolization）"
+          },
+          { "hwd": "symbolist", "tran": " 象征主义者；符号学者；记号使用者" }
+        ]
+      },
+      {
+        "pos": "vi",
+        "words": [
+          { "hwd": "symbolize", "tran": " 采用象征；使用符号；作为…的象征" },
+          {
+            "hwd": "symbolise",
+            "tran": " 用符号表示，使用符号（等于symbolize）"
+          }
+        ]
+      },
+      {
+        "pos": "vt",
+        "words": [
+          { "hwd": "symbolize", "tran": " 象征；用符号表现" },
+          { "hwd": "symbolise", "tran": " 象证，代表（等于symbolize）" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "象征；标志", "pos": "n" }]
+  },
+  {
+    "word": "fall",
+    "usphone": "fɔl",
+    "ukphone": "fɔːl",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "fell", "tran": " 凶猛的；毁灭性的" },
+          { "hwd": "falling", "tran": " 下降的；落下的" },
+          { "hwd": "fallen", "tran": " 堕落的；落下来的；陷落的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "fell", "tran": " [林] 一季所伐的木材；折缝；兽皮" },
+          { "hwd": "falling", "tran": " 下降；落下；陷落" },
+          { "hwd": "faller", "tran": " 砍伐树木的人" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "fell", "tran": " 掉下；摔倒；下垂；变坏（fall的过去式）" },
+          { "hwd": "falling", "tran": " 落下（fall的ing形式）" },
+          { "hwd": "fallen", "tran": " 落下；跌倒（fall的过去分词）" }
+        ]
+      },
+      { "pos": "vt", "words": [{ "hwd": "fell", "tran": " 砍伐；打倒；击倒" }] }
+    ],
+    "trans": [{ "cn": "(fell) 下落；跌落", "pos": "v" }]
+  },
+  {
+    "word": "follow",
+    "usphone": "'fɑlo",
+    "ukphone": "'fɒləʊ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "following", "tran": " 下面的；其次的，接着的" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "following", "tran": " 下列事物；一批追随者" },
+          { "hwd": "follower", "tran": " 追随者；信徒；属下" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "following", "tran": " 跟随；沿行（follow的ing形式）" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "跟随；紧跟", "pos": "v" }]
+  },
+  {
+    "word": "hole",
+    "usphone": "hol",
+    "ukphone": "həʊl",
+    "rel_words": [
+      { "pos": "adj", "words": [{ "hwd": "holey", "tran": " 多洞的；有穴的" }] }
+    ],
+    "trans": [{ "cn": "洞，孔；穴", "pos": "n" }]
+  },
+  {
+    "word": "rabbit",
+    "usphone": "'ræbɪt",
+    "ukphone": "'ræbɪt",
+    "rel_words": [],
+    "trans": [{ "cn": "兔；家兔", "pos": "n" }]
+  },
+  {
+    "word": "ssh",
+    "rel_words": [],
+    "trans": [{ "cn": "嘘（示意某人不要说话）", "pos": "int" }]
+  },
+  {
+    "word": "ground",
+    "usphone": "ɡraʊnd",
+    "ukphone": "graʊnd",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "grinding", "tran": " 磨的；刺耳的；令人难以忍受的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "grind", "tran": " 磨；苦工作" },
+          { "hwd": "grinder", "tran": " [机] 研磨机；研磨者；磨工；臼齿" },
+          {
+            "hwd": "grounding",
+            "tran": " [电] 接地；基础；搁浅；（染色的）底色"
+          },
+          { "hwd": "grounder", "tran": " 滚地球" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "grounding", "tran": " [电] 接地（ground的ing形式）；搁浅" }
+        ]
+      },
+      { "pos": "vi", "words": [{ "hwd": "grind", "tran": " 磨碎；折磨" }] },
+      { "pos": "vt", "words": [{ "hwd": "grind", "tran": " 磨碎；磨快" }] }
+    ],
+    "trans": [{ "cn": "地面", "pos": "n" }]
+  },
+  { "word": "tea party", "rel_words": [], "trans": [{ "cn": "茶会" }] },
+  {
+    "word": "twice",
+    "usphone": "twaɪs",
+    "ukphone": "twaɪs",
+    "rel_words": [],
+    "trans": [{ "cn": "两次；两倍", "pos": "adv" }]
+  },
+  {
+    "word": "once or twice",
+    "rel_words": [],
+    "trans": [{ "cn": "偶尔；一两次" }]
+  },
+  {
+    "word": "suddenly",
+    "usphone": "'sʌdnlɪ",
+    "ukphone": "ˈsʌdnlɪ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "sudden", "tran": " 突然的，意外的；快速的" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "sudden", "tran": " 突然发生的事" },
+          { "hwd": "suddenness", "tran": " 意外；突然" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "突然地；出乎意料地", "pos": "adv" }]
+  },
+  {
+    "word": "pink",
+    "usphone": "pɪŋk",
+    "ukphone": "pɪŋk",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "pinky", "tran": " 带淡红色的；比较激进的" },
+          { "hwd": "pinkish", "tran": " 略带桃色的；较为激进的" }
+        ]
+      }
+    ],
+    "trans": [
+      { "cn": "粉红色的", "pos": "adj" },
+      { "cn": "粉红色", "pos": "n" }
+    ]
+  },
+  {
+    "word": "pocket",
+    "usphone": "'pɑkɪt",
+    "ukphone": "'pɒkɪt",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          {
+            "hwd": "pocketable",
+            "tran": " 可放在口袋里的；可供私用的；可隐藏的"
+          }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "衣袋；口袋", "pos": "n" }]
+  },
+  {
+    "word": "field",
+    "usphone": "fild",
+    "ukphone": "fiːld",
+    "rel_words": [
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "fielding", "tran": " 守备；防守" },
+          { "hwd": "fielder", "tran": " 外野手；外场员（等于fieldsman）" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "fielding", "tran": " 保护；担任外场员（field的ing形式）" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "牧场；田地", "pos": "n" }]
+  },
+  { "word": "think about", "rel_words": [], "trans": [{ "cn": "考虑" }] },
+  {
+    "word": "deep",
+    "usphone": "dip",
+    "ukphone": "diːp",
+    "rel_words": [
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "deeply", "tran": " 深刻地；浓浓地；在深处" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "depth", "tran": " [海洋] 深度；深奥" },
+          { "hwd": "deepening", "tran": " 加深，延深；向下侵蚀" },
+          { "hwd": "deepness", "tran": " 深度；浓度" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "deepening", "tran": " 使深化；加深（deepen的现在分词）" }
+        ]
+      },
+      { "pos": "vi", "words": [{ "hwd": "deepen", "tran": " 变深；变低沉" }] },
+      {
+        "pos": "vt",
+        "words": [{ "hwd": "deepen", "tran": " 使加深；使强烈；使低沉" }]
+      }
+    ],
+    "trans": [{ "cn": "（从顶部向下）深的", "pos": "adj" }]
+  },
+  {
+    "word": "while",
+    "usphone": "hwaɪl",
+    "ukphone": "waɪl",
+    "rel_words": [],
+    "trans": [{ "cn": "当⋯⋯的时候", "pos": "conj" }]
+  },
+  {
+    "word": "land",
+    "usphone": "lænd",
+    "ukphone": "lænd",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "landed", "tran": " 拥有土地的；陆地上的" },
+          { "hwd": "landless", "tran": " 无地产的；无陆地的" },
+          { "hwd": "landward", "tran": " 近陆的，向陆的" }
+        ]
+      },
+      { "pos": "adv", "words": [{ "hwd": "landward", "tran": " 向陆地" }] },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "landing", "tran": " 登陆；码头；楼梯平台" },
+          { "hwd": "lander", "tran": " 着陆器；出铁槽；把钩工人" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "landing", "tran": " 登陆（land的ing形式）" },
+          { "hwd": "landed", "tran": " 登陆，登岸（land的过去时和过去分词）" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "降落（或跳落、跌落）到地面（或水面上）", "pos": "v" }]
+  },
+  {
+    "word": "dry",
+    "usphone": "draɪ",
+    "ukphone": "draɪ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "dried", "tran": " 干燥的；弄干了的" },
+          { "hwd": "dryish", "tran": " 稍干的；略近干涩的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "drily", "tran": " 干燥地；冷淡地；讽刺地" },
+          { "hwd": "dryly", "tran": " 干燥地；冷淡地；枯燥无味地" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "drought", "tran": " 干旱；缺乏" },
+          { "hwd": "dryer", "tran": " 烘干机；[助剂] 干燥剂" },
+          { "hwd": "dryness", "tran": " 干燥；冷淡；干燥无味" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "dried", "tran": " 使干（原形是dry）" }]
+      }
+    ],
+    "trans": [{ "cn": "干的；干燥的", "pos": "adj" }]
+  },
+  {
+    "word": "pale",
+    "usphone": "pel",
+    "ukphone": "peɪl",
+    "rel_words": [
+      { "pos": "adj", "words": [{ "hwd": "palish", "tran": " 稍微苍白的" }] },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "palely", "tran": " 苍白地；淡色地；青青地" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "paleness", "tran": " 苍白；淡薄；变青" },
+          { "hwd": "paling", "tran": " 木栅；打桩" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "paling", "tran": " 用桩篱把…围起；包围（pale的ing形式）" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "（肤色）苍白的", "pos": "adj" }]
+  },
+  {
+    "word": "appear",
+    "usphone": "ə'pɪr",
+    "ukphone": "ə'pɪə",
+    "rel_words": [
+      {
+        "pos": "n",
+        "words": [{ "hwd": "appearance", "tran": " 外貌，外观；出现，露面" }]
+      }
+    ],
+    "trans": [{ "cn": "出现；显露", "pos": "v" }]
+  },
+  {
+    "word": "round",
+    "usphone": "raʊnd",
+    "ukphone": "raʊnd",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "rounded", "tran": " 圆形的；全面的；丰满的" },
+          { "hwd": "rounding", "tran": " 圆的；使圆的；凑整的" },
+          { "hwd": "roundish", "tran": " 圆的；略圆的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "roundly", "tran": " 全面地；严厉地；直率地；圆圆地" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "rounding", "tran": " 凑整；制圆" },
+          { "hwd": "rounder", "tran": " 酒鬼；惯犯；看夜人；搓圆机；巡回者" },
+          { "hwd": "roundness", "tran": " 圆；球形" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          {
+            "hwd": "rounding",
+            "tran": " 绕行；使变圆；把…弄成整数（round的ing形式）"
+          }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "转到（某物的）另一边", "pos": "prep" }]
+  },
+  {
+    "word": "corner",
+    "usphone": "'kɔrnɚ",
+    "ukphone": "'kɔːnə",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "cornered", "tran": " 有角的；被困得走投无路的" },
+          { "hwd": "corned", "tran": " 腌制的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "corn", "tran": " （美）玉米；（英）谷物；[皮肤] 鸡眼" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "corned", "tran": " 腌；使成颗粒（corn的过去时和过去分词）" }
+        ]
+      },
+      {
+        "pos": "vt",
+        "words": [
+          { "hwd": "corn", "tran": " 腌；使成颗粒" },
+          { "hwd": "cornered", "tran": " 把…逼入绝境（corner的过去式）" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "拐角；街角", "pos": "n" }]
+  },
+  {
+    "word": "hit",
+    "usphone": "hɪt",
+    "ukphone": "hɪt",
+    "rel_words": [
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "hitting", "tran": " 击中；压缩；拉伸" },
+          { "hwd": "hitter", "tran": " 击球员；打击者" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "(hit) （使）碰撞", "pos": "v" }]
+  },
+  {
+    "word": "glad",
+    "usphone": "ɡlæd",
+    "ukphone": "glæd",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "gladsome", "tran": " 高兴的；可喜的" }]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "gladly", "tran": " 乐意地；高兴地；欢喜地" }]
+      },
+      { "pos": "n", "words": [{ "hwd": "gladness", "tran": " 愉快，高兴" }] },
+      { "pos": "vi", "words": [{ "hwd": "gladden", "tran": " 喜悦" }] },
+      {
+        "pos": "vt",
+        "words": [{ "hwd": "gladden", "tran": " 使喜悦，使高兴" }]
+      }
+    ],
+    "trans": [{ "cn": "高兴的；欢喜的", "pos": "adj" }]
+  },
+  { "word": "in time", "rel_words": [], "trans": [{ "cn": "及时" }] },
+  { "word": "fall off", "rel_words": [], "trans": [{ "cn": "从⋯⋯跌落" }] },
+  {
+    "word": "risk",
+    "usphone": "rɪsk",
+    "ukphone": "rɪsk",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "risky", "tran": " 危险的；冒险的；（作品等）有伤风化的" },
+          { "hwd": "riskless", "tran": " 无危险的；安全的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "riskily", "tran": " 冒险地；近乎淫秽地" }]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "riskiness", "tran": " 冒险的事；危险" }]
+      }
+    ],
+    "trans": [{ "cn": "危险；风险", "pos": "n" }]
+  },
+  {
+    "word": "attention",
+    "usphone": "ə'tɛnʃən",
+    "ukphone": "ə'tenʃ(ə)n",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "attentive", "tran": " 留意的，注意的" },
+          { "hwd": "attentional", "tran": " 注意的；保养的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "attentively", "tran": " 注意地；聚精会神地；周到地" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "attentiveness", "tran": " 注意力；专注" }]
+      }
+    ],
+    "trans": [{ "cn": "注意力", "pos": "n" }]
+  },
+  {
+    "word": "pay attention",
+    "rel_words": [],
+    "trans": [{ "cn": "注意；留心" }]
+  },
+  {
+    "word": "side",
+    "usphone": "saɪd",
+    "ukphone": "saɪd",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "sideward", "tran": " 侧面的；横的" },
+          { "hwd": "sidewise", "tran": " 横斜的；向一边的" }
+        ]
+      },
+      { "pos": "adv", "words": [{ "hwd": "sideward", "tran": " 向旁边" }] },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "siding", "tran": " 侧线；旁轨，边宽" }]
+      },
+      {
+        "pos": "v",
+        "words": [
+          {
+            "hwd": "siding",
+            "tran": " 支持（side的现在分词）；给…装上侧面；收拾，整理"
+          }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "（物体或形状的）侧面", "pos": "n" }]
+  },
+  {
+    "word": "side by side",
+    "rel_words": [],
+    "trans": [{ "cn": "并排地；肩并肩地" }]
+  },
+  {
+    "word": "bite",
+    "usphone": "baɪt",
+    "ukphone": "baɪt",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "bit", "tran": " 很小的；微不足道的" },
+          { "hwd": "biting", "tran": " 刺痛的；辛辣的" }
+        ]
+      },
+      { "pos": "adv", "words": [{ "hwd": "bit", "tran": " 有点儿；相当" }] },
+      {
+        "pos": "n",
+        "words": [
+          {
+            "hwd": "bit",
+            "tran": " [计] 比特（二进位制信息单位）；少量；马嚼子；辅币；老一套"
+          },
+          { "hwd": "biter", "tran": " 咬人的动物；骗子" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "bit", "tran": " 咬（bite的过去式和过去分词）" },
+          { "hwd": "biting", "tran": " 咬；抓住；刺进；欺骗（bite的ing形式）" }
+        ]
+      },
+      { "pos": "vt", "words": [{ "hwd": "bit", "tran": " 控制" }] }
+    ],
+    "trans": [{ "cn": "(bit) 咬；叮", "pos": "v" }]
+  },
+  {
+    "word": "climb",
+    "usphone": "klaɪm",
+    "ukphone": "klaɪm",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "climbing", "tran": " 上升的；攀缘而登的" },
+          { "hwd": "climbable", "tran": " 爬得上去的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "climbing", "tran": " 攀登" },
+          {
+            "hwd": "climber",
+            "tran": " 登山者；攀缘植物；尽力改善自己社会地位的人"
+          }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "climbing", "tran": " 爬（climb的ing形式）" }]
+      }
+    ],
+    "trans": [{ "cn": "爬；攀爬", "pos": "v" }]
+  },
+  {
+    "word": "hide",
+    "usphone": "haɪd",
+    "ukphone": "haɪd",
+    "rel_words": [
+      { "pos": "adj", "words": [{ "hwd": "hidden", "tran": " 隐藏的" }] },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "hiding", "tran": " 隐匿；躲藏处；殴打" }]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "hidden", "tran": " 隐藏，躲藏（hide的过去分词）" }]
+      }
+    ],
+    "trans": [{ "cn": "(hid) 躲；躲藏", "pos": "v" }]
+  },
+  {
+    "word": "throw",
+    "usphone": "θro",
+    "ukphone": "θrəʊ",
+    "rel_words": [
+      {
+        "pos": "n",
+        "words": [{ "hwd": "thrower", "tran": " 投掷者；抛油环；制陶坯的工人" }]
+      }
+    ],
+    "trans": [{ "cn": "(threw) 扔；掷", "pos": "v" }]
+  },
+  {
+    "word": "fridge",
+    "usphone": "frɪdʒ",
+    "ukphone": "frɪdʒ",
+    "rel_words": [],
+    "trans": [{ "cn": "冰箱", "pos": "n" }]
+  },
+  {
+    "word": "pain",
+    "usphone": "pen",
+    "ukphone": "peɪn",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "painful", "tran": " 痛苦的；疼痛的；令人不快的" },
+          { "hwd": "painless", "tran": " 无痛的；不痛的" },
+          { "hwd": "pained", "tran": " 悲痛的；受痛苦的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "painfully", "tran": " 痛苦地，费力地" },
+          { "hwd": "painlessly", "tran": " 无痛苦地，不费力地" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "painfulness", "tran": " 痛苦；可怜" }]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "pained", "tran": " 使…痛苦（pain的过去式）" }]
+      }
+    ],
+    "trans": [{ "cn": "痛；疼痛", "pos": "n" }]
+  },
+  {
+    "word": "worse",
+    "usphone": "wɜrs",
+    "ukphone": "wəːs",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "worsening", "tran": " 日益恶化的" }]
+      },
+      { "pos": "n", "words": [{ "hwd": "worsening", "tran": " 恶化；变坏" }] },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "worsening", "tran": " 恶化（worsen的ing形式）；使变得更坏" }
+        ]
+      },
+      {
+        "pos": "vi",
+        "words": [{ "hwd": "worsen", "tran": " 恶化；变得更坏；更坏" }]
+      },
+      {
+        "pos": "vt",
+        "words": [{ "hwd": "worsen", "tran": " 使恶化；使变得更坏" }]
+      }
+    ],
+    "trans": [
+      { "cn": "更糟的；更坏的", "pos": "adj" },
+      { "cn": "更糟；更严重", "pos": "adv" }
+    ]
+  },
+  {
+    "word": "medicine",
+    "usphone": "ˈmedɪsn; mɛdəsn",
+    "ukphone": "ˈmedsn",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "medical", "tran": " 医学的；药的；内科的" },
+          {
+            "hwd": "medicinal",
+            "tran": " 药的；药用的；治疗的（等于medicinable）；有益的"
+          },
+          { "hwd": "medicative", "tran": " 有药效的；可治病的；有治疗作用的" },
+          { "hwd": "medicolegal", "tran": " 法医学的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "medically", "tran": " 医学上地；医药上地" },
+          { "hwd": "medicinally", "tran": " 用药物，当做药" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "medical", "tran": " 医生；体格检查" },
+          { "hwd": "medication", "tran": " 药物；药物治疗；药物处理" },
+          { "hwd": "medicament", "tran": " 药剂；医药" }
+        ]
+      },
+      {
+        "pos": "vt",
+        "words": [
+          { "hwd": "medicate", "tran": " 用药治疗；加药品于" },
+          { "hwd": "medicament", "tran": " 用药物治疗" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "药；药物", "pos": "n" }]
+  },
+  {
+    "word": "noise",
+    "usphone": "nɔɪz",
+    "ukphone": "nɔɪz",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "noisy", "tran": " 嘈杂的；喧闹的；聒噪的" },
+          { "hwd": "noiseless", "tran": " 无声的；寂静的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "noiselessly", "tran": " 寂静无声地；轻轻地" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "noisy", "tran": " 响声；嘈杂声" },
+          { "hwd": "noiselessness", "tran": " 安静；无声" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "噪声；杂音", "pos": "n" }]
+  },
+  {
+    "word": "prepare",
+    "usphone": "prɪ'pɛr",
+    "ukphone": "prɪ'peə",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "prepared", "tran": " 准备好的；精制的" },
+          { "hwd": "preparatory", "tran": " 预备的" },
+          { "hwd": "preparative", "tran": " 准备的；预备性的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "preparation", "tran": " 预备；准备" },
+          { "hwd": "preparatory", "tran": " 预科；预备学校" },
+          { "hwd": "preparedness", "tran": " 准备；有准备" },
+          { "hwd": "preparative", "tran": " 准备，预备" },
+          { "hwd": "preparer", "tran": " 填表人，调制机" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "prepared", "tran": " 准备（prepare的过去分词）" }]
+      }
+    ],
+    "trans": [{ "cn": "准备；预备", "pos": "v" }]
+  },
+  {
+    "word": "notes",
+    "usphone": "nots",
+    "ukphone": "nəʊts",
+    "rel_words": [],
+    "trans": [{ "cn": "笔记；随笔 (pl.)", "pos": "n" }]
+  },
+  {
+    "word": "report",
+    "usphone": "rɪ'pɔrt",
+    "ukphone": "rɪ'pɔːt",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "reporting", "tran": " 报告的" },
+          { "hwd": "reportable", "tran": " 可报告的；值得报告的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "reportedly", "tran": " 据报道；据传闻" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "reporting", "tran": " 报告；报导" },
+          { "hwd": "reportage", "tran": " 报告文学，报道文学；报道，新闻报道" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "报告；汇报", "pos": "n" }]
+  },
+  {
+    "word": "Grow",
+    "usphone": "ɡro",
+    "ukphone": "grəʊ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "grown", "tran": " 长大的；成年的；长满某物的" },
+          { "hwd": "growing", "tran": " 发展的；成长的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "growth", "tran": " 增长；发展；生长；种植" },
+          { "hwd": "grower", "tran": " 栽培者；生长物" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "grown", "tran": " 生长；变成；栽培（grow的过去分词）" },
+          { "hwd": "growing", "tran": " 生长（grow的ing形式）" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "(grew) 增长；增大", "pos": "v" }]
+  },
+  {
+    "word": "huge",
+    "usphone": "hjudʒ",
+    "ukphone": "hjuːdʒ",
+    "rel_words": [
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "hugely", "tran": " 巨大地；非常地" }]
+      }
+    ],
+    "trans": [{ "cn": "巨大的；庞大的", "pos": "adj" }]
+  },
+  {
+    "word": "cause",
+    "usphone": "kɔz",
+    "ukphone": "kɔːz",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "causal", "tran": " 因果关系的；有原因的" },
+          { "hwd": "causative", "tran": " 成为原因的；惹起…的" },
+          { "hwd": "causeless", "tran": " 偶然的；无原因的" }
+        ]
+      },
+      { "pos": "adv", "words": [{ "hwd": "causally", "tran": " 有原因地" }] },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "causal", "tran": " 表示原因的连词" },
+          { "hwd": "causation", "tran": " 原因；因果关系；出现" },
+          { "hwd": "causative", "tran": " 使役动词" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "造成；引起", "pos": "v" }]
+  },
+  {
+    "word": "problem",
+    "usphone": "'prɑbləm",
+    "ukphone": "'prɒbləm",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "problematic", "tran": " 问题的；有疑问的；不确定的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "problematically", "tran": " 有问题地" }]
+      }
+    ],
+    "trans": [{ "cn": "麻烦；问题", "pos": "n" }]
+  },
+  {
+    "word": "increase",
+    "usphone": "ɪnˈkris; ˈɪnˌkris",
+    "ukphone": "ɪn'kriːs",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "increasing", "tran": " 越来越多的，渐增的" }]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "increasing", "tran": " 增加，加大（increase的ing形式）" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "增大；增长", "pos": "v" }]
+  },
+  {
+    "word": "birth",
+    "usphone": "bɝθ",
+    "ukphone": "bɜːθ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "born", "tran": " 天生的" },
+          { "hwd": "birthing", "tran": " 生育的；生育用的；分娩用的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "bear", "tran": " 熊" },
+          { "hwd": "birthplace", "tran": " 出生地" },
+          { "hwd": "birthrate", "tran": " 出生率" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "born", "tran": " 出世（bear的过去分词）" },
+          { "hwd": "birthing", "tran": " 出生（birth的ing形式）" }
+        ]
+      },
+      { "pos": "vi", "words": [{ "hwd": "bear", "tran": " 承受；结果实" }] },
+      { "pos": "vt", "words": [{ "hwd": "bear", "tran": " 忍受；具有；支撑" }] }
+    ],
+    "trans": [{ "cn": "出生", "pos": "n" }]
+  },
+  {
+    "word": "billion",
+    "usphone": "'bɪljən",
+    "ukphone": "'bɪljən",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "billionth", "tran": " 十亿分之一的；第十亿的" }]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "billionth", "tran": " 十亿分之一；第十亿" }]
+      }
+    ],
+    "trans": [{ "cn": "十亿", "pos": "num" }]
+  },
+  {
+    "word": "fifth",
+    "usphone": "fɪfθ",
+    "ukphone": "fɪfθ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "fifteenth", "tran": " 第十五的；十五分之一的" },
+          { "hwd": "fiftieth", "tran": " 第五十的；五十分之一的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "fifthly", "tran": " 第五地；第五" }]
+      },
+      {
+        "pos": "num",
+        "words": [
+          { "hwd": "fifteenth", "tran": " 第十五" },
+          { "hwd": "fiftieth", "tran": " 第五十；五十分之一" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "第五；五分之一", "pos": "num" }]
+  },
+  { "word": "hang on", "rel_words": [], "trans": [{ "cn": "[口]稍等" }] },
+  {
+    "word": "flat",
+    "usphone": "flæt",
+    "ukphone": "flæt",
+    "rel_words": [
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "flatly", "tran": " 断然地；平平地；直截了当地" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "flatness", "tran": " 平坦；单调；断然的态度" },
+          { "hwd": "flatmate", "tran": " 合住一套公寓的人；合租者" }
+        ]
+      },
+      { "pos": "vi", "words": [{ "hwd": "flatten", "tran": " 变平；变单调" }] },
+      {
+        "pos": "vt",
+        "words": [{ "hwd": "flatten", "tran": " 击败，摧毁；使……平坦" }]
+      }
+    ],
+    "trans": [{ "cn": "套房；公寓", "pos": "n" }]
+  },
+  {
+    "word": "rubbish",
+    "usphone": "'rʌbɪʃ",
+    "ukphone": "'rʌbɪʃ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "rubbishy", "tran": " 碎屑的；破烂的；无用的" }]
+      }
+    ],
+    "trans": [{ "cn": "垃圾；废弃物", "pos": "n" }]
+  },
+  {
+    "word": "quiet",
+    "usphone": "'kwaɪət",
+    "ukphone": "'kwaɪət",
+    "rel_words": [
+      { "pos": "adj", "words": [{ "hwd": "quietist", "tran": " 寂静主义的" }] },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "quietly", "tran": " 安静地；秘密地；平稳地" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "quietness", "tran": " 平静，安静" },
+          { "hwd": "quietude", "tran": " 平静；寂静；沉着" },
+          { "hwd": "quietism", "tran": " 寂静主义；清静无为" },
+          { "hwd": "quietist", "tran": " 寂静主义者" }
+        ]
+      },
+      { "pos": "vi", "words": [{ "hwd": "quieten", "tran": " 变安静" }] },
+      { "pos": "vt", "words": [{ "hwd": "quieten", "tran": " 抚慰；使安静" }] }
+    ],
+    "trans": [{ "cn": "寂静的；安静的", "pos": "adj" }]
+  },
+  {
+    "word": "local",
+    "usphone": "ˈloʊkl",
+    "ukphone": "'ləʊk(ə)l",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "localized", "tran": " 局部的；地区的；小范围的" },
+          { "hwd": "localised", "tran": " 限局性的，局部的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "locally", "tran": " 局部地；在本地" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "locality", "tran": " 所在；位置；地点" },
+          { "hwd": "localization", "tran": " [计] 定位；局限；地方化" },
+          { "hwd": "localisation", "tran": " 本土化；定位" },
+          { "hwd": "localism", "tran": " 有地方色彩，地方主义；方言" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "localized", "tran": " 定位（localize的过去分词）" },
+          {
+            "hwd": "localised",
+            "tran": " 使地方化；定位；局限（localise的过去分词）"
+          }
+        ]
+      },
+      {
+        "pos": "vi",
+        "words": [{ "hwd": "localize", "tran": " 局部化；集中" }]
+      },
+      {
+        "pos": "vt",
+        "words": [
+          { "hwd": "localize", "tran": " 使地方化；使局部化；停留在一地方" },
+          { "hwd": "localise", "tran": " 使地方化；定位；集中" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "当地的；本地的", "pos": "adj" }]
+  },
+  {
+    "word": "close down",
+    "rel_words": [],
+    "trans": [{ "cn": "（永久）关闭，关停" }]
+  },
+  {
+    "word": "pupil",
+    "usphone": "pjupl",
+    "ukphone": "'pjuːpɪl; -p(ə)l",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "pupillary", "tran": " 瞳孔的；学生的；被监护人的" }]
+      }
+    ],
+    "trans": [{ "cn": "学生；（尤指）小学生", "pos": "n" }]
+  },
+  {
+    "word": "pollution",
+    "usphone": "pə'luʃən",
+    "ukphone": "pə'luːʃ(ə)n",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "polluted", "tran": " 受污染的；被玷污的" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "pollutant", "tran": " 污染物" },
+          { "hwd": "polluter", "tran": " 污染者；污染源；污染物质" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "polluted", "tran": " 污染（pollute的过去式和过去分词）" }
+        ]
+      },
+      {
+        "pos": "vt",
+        "words": [{ "hwd": "pollute", "tran": " 污染；玷污；败坏" }]
+      }
+    ],
+    "trans": [{ "cn": "污染", "pos": "n" }]
+  },
+  {
+    "word": "public",
+    "usphone": "'pʌblɪk",
+    "ukphone": "'pʌblɪk",
+    "rel_words": [
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "publicly", "tran": " 公然地；以公众名义" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "publicity", "tran": " 宣传，宣扬；公开；广告；注意" },
+          { "hwd": "publication", "tran": " 出版；出版物；发表" },
+          { "hwd": "publicist", "tran": " 国际法学家；宣传人员；公法学家" }
+        ]
+      },
+      {
+        "pos": "vt",
+        "words": [
+          { "hwd": "publicize", "tran": " 宣传；公布" },
+          { "hwd": "publicise", "tran": " 宣传，宣扬；公布，颂" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "公共的；公众的", "pos": "adj" }]
+  },
+  {
+    "word": "service",
+    "usphone": "'sɝvɪs",
+    "ukphone": "'sɜːvɪs",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "serving", "tran": " 用于上菜的" },
+          { "hwd": "serviceable", "tran": " 有用的，可供使用的；耐用的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "serving", "tran": " 服务；上菜；一份食物" },
+          {
+            "hwd": "serviceability",
+            "tran": " 可用性，适用性；使用可靠性；[计] 可服务性；可维修性"
+          },
+          { "hwd": "servicing", "tran": " 维修" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "serving", "tran": " 服务（serve的ing形式）" },
+          { "hwd": "servicing", "tran": " 为…服务（service的ing形式）" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "公共服务；服务", "pos": "n" }]
+  },
+  {
+    "word": "solve",
+    "usphone": "sɑlv",
+    "ukphone": "sɒlv",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "solvent", "tran": " 有偿付能力的；有溶解力的" },
+          { "hwd": "solved", "tran": " 解决了的" },
+          { "hwd": "solvable", "tran": " 可以解决的；可以解的；可溶的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "solution", "tran": " 解决方案；溶液；溶解；解答" },
+          { "hwd": "solvent", "tran": " 溶剂；解决方法" },
+          { "hwd": "solvency", "tran": " 偿付能力；溶解力" },
+          { "hwd": "solubility", "tran": " 溶解度；可解决性" },
+          { "hwd": "solver", "tran": " 解决者；[计] 解算机；[数] 求解程序" },
+          {
+            "hwd": "solvation",
+            "tran": " [化学] 溶解；[化学] 溶剂化作用；溶化"
+          },
+          { "hwd": "solubleness", "tran": " 溶解度，可溶性" },
+          { "hwd": "solvability", "tran": " [数] 可解性；解决之可能性；溶解度" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "solved", "tran": " 解决（solve的过去式）；解答" },
+          { "hwd": "solving", "tran": " 解决" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "解决问题", "pos": "v" }]
+  },
+  {
+    "word": "cloud",
+    "usphone": "klaʊd",
+    "ukphone": "klaʊd",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "cloudy", "tran": " 多云的；阴天的；愁容满面的" },
+          { "hwd": "clouded", "tran": " 乌云密布的；有暗影的，阴的" },
+          { "hwd": "cloudless", "tran": " 无云的；晴朗的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "cloudiness", "tran": " 阴沉；暗晦；朦胧" }]
+      }
+    ],
+    "trans": [{ "cn": "云；云雾", "pos": "n" }]
+  },
+  {
+    "word": "shower",
+    "usphone": "'ʃaʊɚ",
+    "ukphone": "'ʃaʊə",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "showery", "tran": " 阵雨的；多阵雨的" }]
+      }
+    ],
+    "trans": [{ "cn": "阵雨", "pos": "n" }]
+  },
+  {
+    "word": "snow",
+    "usphone": "sno",
+    "ukphone": "snəʊ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "snowy", "tran": " 下雪的，多雪的；被雪覆盖的；洁白无瑕的" }
+        ]
+      }
+    ],
+    "trans": [
+      { "cn": "雪", "pos": "n" },
+      { "cn": "下雪", "pos": "v" }
+    ]
+  },
+  {
+    "word": "storm",
+    "usphone": "stɔrm",
+    "ukphone": "stɔːm",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "stormy", "tran": " 暴风雨的；猛烈的；暴躁的" }]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "storminess", "tran": " 风暴度；磁暴度；猛烈" }]
+      }
+    ],
+    "trans": [{ "cn": "暴风雨", "pos": "n" }]
+  },
+  {
+    "word": "cloudy",
+    "usphone": "'klaʊdi",
+    "ukphone": "'klaʊdɪ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "clouded", "tran": " 乌云密布的；有暗影的，阴的" },
+          { "hwd": "cloudless", "tran": " 无云的；晴朗的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "cloud", "tran": " 云；阴云；云状物；一大群；黑斑" },
+          { "hwd": "cloudiness", "tran": " 阴沉；暗晦；朦胧" }
+        ]
+      },
+      { "pos": "vi", "words": [{ "hwd": "cloud", "tran": " 阴沉；乌云密布" }] },
+      {
+        "pos": "vt",
+        "words": [{ "hwd": "cloud", "tran": " 使混乱；以云遮敝；使忧郁；玷污" }]
+      }
+    ],
+    "trans": [{ "cn": "多云的", "pos": "adj" }]
+  },
+  {
+    "word": "rainy",
+    "usphone": "'reni",
+    "ukphone": "'reɪnɪ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "rainless", "tran": " 缺少雨的；无雨的" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "rain", "tran": " 雨；下雨；雨天；雨季" },
+          { "hwd": "raininess", "tran": " 多雨；雨量强度" }
+        ]
+      },
+      { "pos": "vi", "words": [{ "hwd": "rain", "tran": " 下雨；降雨" }] },
+      {
+        "pos": "vt",
+        "words": [{ "hwd": "rain", "tran": " 大量地给；使大量落下" }]
+      }
+    ],
+    "trans": [{ "cn": "多雨的；下雨的", "pos": "adj" }]
+  },
+  {
+    "word": "snowy",
+    "usphone": "'snoɪ",
+    "ukphone": "'snəʊɪ",
+    "rel_words": [
+      { "pos": "n", "words": [{ "hwd": "snow", "tran": " 雪，积雪；下雪" }] },
+      { "pos": "vi", "words": [{ "hwd": "snow", "tran": " 降雪" }] },
+      {
+        "pos": "vt",
+        "words": [{ "hwd": "snow", "tran": " 使纷纷落下；使变白" }]
+      }
+    ],
+    "trans": [{ "cn": "多雪的；下雪的", "pos": "adj" }]
+  },
+  {
+    "word": "sunny",
+    "usphone": "'sʌni",
+    "ukphone": "'sʌnɪ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "sunlit", "tran": " 阳光照射的；被日光照射了的" },
+          { "hwd": "sunless", "tran": " 阳光照射不到的，阴暗的" },
+          { "hwd": "sunshiny", "tran": " 晴朗的；阳光照耀的；向阳极好的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "sunnily", "tran": " 快活地；照着阳光" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "sun", "tran": " 太阳" },
+          { "hwd": "sunshine", "tran": " 阳光；愉快；晴天；快活" },
+          { "hwd": "sunray", "tran": " 紫外线；太阳光线" },
+          { "hwd": "sunniness", "tran": " 阳光照射，阳光充足；活泼" }
+        ]
+      },
+      { "pos": "vi", "words": [{ "hwd": "sun", "tran": " 晒太阳" }] },
+      { "pos": "vt", "words": [{ "hwd": "sun", "tran": " 使晒" }] }
+    ],
+    "trans": [{ "cn": "晴朗的", "pos": "adj" }]
+  },
+  {
+    "word": "windy",
+    "usphone": "'wɪndi",
+    "ukphone": "'wɪndɪ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "windward", "tran": " 上风的" },
+          { "hwd": "winded", "tran": " 喘气的；通风的；有风的" },
+          { "hwd": "windless", "tran": " 无风的；平稳的" }
+        ]
+      },
+      { "pos": "adv", "words": [{ "hwd": "windward", "tran": " 迎风" }] },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "wind", "tran": " 风；呼吸；气味；卷绕" },
+          { "hwd": "windward", "tran": " 上风面" },
+          {
+            "hwd": "windage",
+            "tran": " 偏差（子弹因风而生的）；[电] 游隙（炮筒内径和炮弹间的空隙）；[军] 风力影响，风力修正量"
+          },
+          { "hwd": "windiness", "tran": " 招风；多风；有风" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "winded", "tran": " 缠绕；上发条；蜿蜒（wind的过去式）" }
+        ]
+      },
+      {
+        "pos": "vi",
+        "words": [{ "hwd": "wind", "tran": " 缠绕；上发条；吹响号角" }]
+      },
+      {
+        "pos": "vt",
+        "words": [
+          {
+            "hwd": "wind",
+            "tran": " 缠绕；上发条；使弯曲；吹号角；绕住或缠住某人"
+          }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "多风的；刮大风的", "pos": "adj" }]
+  },
+  {
+    "word": "skate",
+    "usphone": "sket",
+    "ukphone": "skeɪt",
+    "rel_words": [
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "skateboard", "tran": " 溜冰板" },
+          { "hwd": "skating", "tran": " 溜冰，滑冰" },
+          { "hwd": "skater", "tran": " 溜冰者" },
+          { "hwd": "skateboarder", "tran": " 滑溜冰板的人；滑板运动员" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "skating", "tran": " 滑冰（skate的ing形式）" }]
+      },
+      { "pos": "vi", "words": [{ "hwd": "skateboard", "tran": " 用滑板滑行" }] }
+    ],
+    "trans": [{ "cn": "滑冰", "pos": "v" }]
+  },
+  {
+    "word": "thick",
+    "usphone": "θɪk",
+    "ukphone": "θɪk",
+    "rel_words": [
+      { "pos": "adv", "words": [{ "hwd": "thickly", "tran": " 厚地；浓地" }] },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "thickness", "tran": " 厚度；层；浓度；含混不清" },
+          { "hwd": "thickening", "tran": " 增厚；增稠剂，[食品] 芡粉；稠化" },
+          { "hwd": "thickener", "tran": " [助剂] 增稠剂；浓缩机" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "thickening", "tran": " 使变厚；变浓（thicken的现在分词）" }
+        ]
+      },
+      {
+        "pos": "vi",
+        "words": [
+          { "hwd": "thicken", "tran": " 变浓；变厚；变得模糊；变粗；变复杂" }
+        ]
+      },
+      {
+        "pos": "vt",
+        "words": [{ "hwd": "thicken", "tran": " 使变厚；使模糊；使…变复杂" }]
+      }
+    ],
+    "trans": [{ "cn": "厚的", "pos": "adj" }]
+  },
+  {
+    "word": "ice",
+    "usphone": "aɪs",
+    "ukphone": "aɪs",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "icy", "tran": " 冰冷的；冷淡的；结满冰的" }]
+      },
+      { "pos": "adv", "words": [{ "hwd": "icily", "tran": " 冷冰冰地" }] },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "icer", "tran": " 冷藏工人；给冷藏货车装冰的机器" },
+          { "hwd": "iciness", "tran": " 冰冷，如冰；冰冷的性质" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "冰", "pos": "n" }]
+  },
+  {
+    "word": "joke",
+    "usphone": "dʒok",
+    "ukphone": "dʒəʊk",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "joking", "tran": " 开玩笑的；戏谑的" }]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "jokingly", "tran": " 开玩笑地；打趣地" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "joker", "tran": " 爱开玩笑的人；家伙；丑角牌" },
+          { "hwd": "jokester", "tran": " 喜欢开玩笑者" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "joking", "tran": " 和…开玩笑（joke的ing形式）" }]
+      }
+    ],
+    "trans": [
+      { "cn": "说笑话；开玩笑", "pos": "v" },
+      { "cn": "笑话；玩笑", "pos": "n" }
+    ]
+  },
+  {
+    "word": "might",
+    "usphone": "maɪt",
+    "ukphone": "maɪt",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "mighty", "tran": " 有力的；强有力的；有势力的" }]
+      },
+      { "pos": "adv", "words": [{ "hwd": "mighty", "tran": " 很；极；非常" }] },
+      {
+        "pos": "aux",
+        "words": [{ "hwd": "may", "tran": " 可能，可以；愿意" }]
+      },
+      { "pos": "n", "words": [{ "hwd": "mighty", "tran": " 有势力的人" }] }
+    ],
+    "trans": [{ "cn": "可能；也许", "pos": "v aux" }]
+  },
+  {
+    "word": "temperature",
+    "usphone": "ˈtemprətʃʊər; tɛmpɚ-ˌtʃʊr",
+    "ukphone": "temprətʃə(r)",
+    "rel_words": [
+      {
+        "pos": "abbr",
+        "words": [{ "hwd": "temp", "tran": " 温度（temperature）" }]
+      },
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "temperate", "tran": " 温和的；适度的；有节制的" }]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "temperately", "tran": " 适度地；有节制地" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "temp", "tran": " 临时雇员" },
+          { "hwd": "temperateness", "tran": " 节制，适度；温和" }
+        ]
+      },
+      { "pos": "vt", "words": [{ "hwd": "temp", "tran": " 做临时工作" }] }
+    ],
+    "trans": [{ "cn": "温度", "pos": "n" }]
+  },
+  {
+    "word": "minus",
+    "usphone": "'maɪnəs",
+    "ukphone": "'maɪnəs",
+    "rel_words": [],
+    "trans": [{ "cn": "负的；零下的", "pos": "adj" }]
+  },
+  {
+    "word": "degree",
+    "usphone": "dɪ'ɡri",
+    "ukphone": "dɪ'griː",
+    "rel_words": [],
+    "trans": [{ "cn": "度；度数", "pos": "n" }]
+  },
+  {
+    "word": "although",
+    "usphone": "ɔl'ðo",
+    "ukphone": "ɔːl'ðəʊ; ɒl-",
+    "rel_words": [],
+    "trans": [{ "cn": "然而；尽管", "pos": "conj" }]
+  },
+  {
+    "word": "wet",
+    "usphone": "wɛt",
+    "ukphone": "wet",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "wetter", "tran": " 湿的；多雨的（wet的比较级）" },
+          { "hwd": "wettable", "tran": " 可湿的；可与水混合的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "wetting", "tran": " 变湿" },
+          { "hwd": "wetness", "tran": " 湿润；下雨" },
+          { "hwd": "wetter", "tran": " [助剂] 湿润剂；（印刷前纸张的）湿润工" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "wetting", "tran": " 弄湿（wet的ing形式）" }]
+      }
+    ],
+    "trans": [{ "cn": "下雨的；湿的", "pos": "adj" }]
+  },
+  {
+    "word": "neither",
+    "usphone": "ˈniðɚ",
+    "ukphone": "ˈnaɪðə; ˈniːðə",
+    "rel_words": [],
+    "trans": [{ "cn": "（某人或某事物）也不", "pos": "adv" }]
+  },
+  {
+    "word": "terrible",
+    "usphone": "'tɛrəbl",
+    "ukphone": "ˈterəbl",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "terrific", "tran": " 极好的；极其的，非常的；可怕的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "terribly", "tran": " 非常；可怕地；极度地" },
+          { "hwd": "terrifically", "tran": " 极端地；可怕地；非常地" }
+        ]
+      },
+      { "pos": "n", "words": [{ "hwd": "terribleness", "tran": " 可怕" }] }
+    ],
+    "trans": [{ "cn": "使人烦恼的；可怕的", "pos": "adj" }]
+  },
+  {
+    "word": "wish",
+    "usphone": "wɪʃ",
+    "ukphone": "wɪʃ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "wistful", "tran": " 渴望的；留恋的；沉思的" },
+          { "hwd": "wishful", "tran": " 渴望的，愿望的；寄予希望的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "wistfully", "tran": " 渴望地；希望地；不满足地" },
+          { "hwd": "wishfully", "tran": " 希望地，渴望地" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "wishing", "tran": " 期盼着，希望；愿望" }]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "wishing", "tran": " 希望；想要（wish的ing形式）" }]
+      }
+    ],
+    "trans": [{ "cn": "但愿；希望", "pos": "v" }]
+  },
+  {
+    "word": "probably",
+    "usphone": "'prɑbəbli",
+    "ukphone": "'prɒbəblɪ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "probable", "tran": " 很可能的；可信的" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "probability", "tran": " 可能性；机率；[数] 或然率" },
+          { "hwd": "probable", "tran": " 很可能的事；大有希望的候选者" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "或许；可能", "pos": "adv" }]
+  },
+  { "word": "come on", "rel_words": [], "trans": [{ "cn": "快点" }] },
+  {
+    "word": "mile",
+    "usphone": "maɪl",
+    "ukphone": "maɪl",
+    "rel_words": [
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "mileage", "tran": " 英里数" },
+          { "hwd": "miler", "tran": " 参加一英里赛跑的运动员" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "英里", "pos": "n" }]
+  },
+  {
+    "word": "Round",
+    "usphone": "raʊnd",
+    "ukphone": "raʊnd",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "rounded", "tran": " 圆形的；全面的；丰满的" },
+          { "hwd": "rounding", "tran": " 圆的；使圆的；凑整的" },
+          { "hwd": "roundish", "tran": " 圆的；略圆的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "roundly", "tran": " 全面地；严厉地；直率地；圆圆地" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "rounding", "tran": " 凑整；制圆" },
+          { "hwd": "rounder", "tran": " 酒鬼；惯犯；看夜人；搓圆机；巡回者" },
+          { "hwd": "roundness", "tran": " 圆；球形" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          {
+            "hwd": "rounding",
+            "tran": " 绕行；使变圆；把…弄成整数（round的ing形式）"
+          }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "围绕地", "pos": "adv" }]
+  },
+  {
+    "word": "northwest",
+    "usphone": "'nɔrθ'wɛst",
+    "ukphone": ",nɔ:θ'west",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "northerly", "tran": " 北方的，向北的；来自北方的" },
+          { "hwd": "northwesterly", "tran": " 向西北的；来自西北的" },
+          { "hwd": "northwestward", "tran": " 向西北的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "northerly", "tran": " 向北；来自北方" },
+          { "hwd": "northwesterly", "tran": " 向西北；来自西北" },
+          { "hwd": "northwestward", "tran": " 向西北方" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "northerly", "tran": " 北风" },
+          { "hwd": "northwester", "tran": " 西北大风，西北来的风暴" },
+          { "hwd": "northwestward", "tran": " 西北方" }
+        ]
+      }
+    ],
+    "trans": [
+      { "cn": "西北", "pos": "n" },
+      { "cn": "西北的；朝西北的", "pos": "adj" }
+    ]
+  },
+  {
+    "word": "southeast",
+    "usphone": ",saʊθ'ist",
+    "ukphone": ",saʊθ'iːst",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "southeasterly", "tran": " 往东南的；来自东南的" },
+          { "hwd": "southerly", "tran": " 来自南方的；向南的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "southeasterly", "tran": " 往东南；来自东南" },
+          { "hwd": "southerly", "tran": " 来自南方；向南" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "southeaster", "tran": " 东南的强风；东南风" },
+          { "hwd": "southerly", "tran": " 南风" }
+        ]
+      }
+    ],
+    "trans": [
+      { "cn": "东南", "pos": "n" },
+      { "cn": "东南的；朝东南的", "pos": "adj" }
+    ]
+  },
+  {
+    "word": "from time to time",
+    "rel_words": [],
+    "trans": [{ "cn": "有时；间或" }]
+  },
+  {
+    "word": "cap",
+    "usphone": "kæp",
+    "ukphone": "kæp",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "capped", "tran": " 包过的；加盖的；去蒂的" },
+          { "hwd": "capless", "tran": " 无帽的；免盖的；无电容的" },
+          { "hwd": "cappy", "tran": " 如帽般的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          {
+            "hwd": "capper",
+            "tran": " 封口机；帽商；制造器具的盖子的人；诱饵；装盖的人；托儿"
+          }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          {
+            "hwd": "capped",
+            "tran": " 给…戴帽；去蒂；覆以…；除去盖子；胜过（cap的过去分词形式）"
+          }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "（有檐的）帽子", "pos": "n" }]
+  },
+  {
+    "word": "chess",
+    "usphone": "tʃɛs",
+    "ukphone": "tʃes",
+    "rel_words": [],
+    "trans": [{ "cn": "国际象棋", "pos": "n" }]
+  },
+  {
+    "word": "Set",
+    "usphone": "sɛt",
+    "ukphone": "set",
+    "rel_words": [
+      {
+        "pos": "n",
+        "words": [
+          {
+            "hwd": "setter",
+            "tran": " [机] 调节器；作曲者；排字工人；安装员，从事安装的人"
+          }
+        ]
+      }
+    ],
+    "trans": [
+      { "cn": "（同类事物的）（一）套，（一）副，（一）组", "pos": "n" }
+    ]
+  },
+  {
+    "word": "a chess set",
+    "rel_words": [],
+    "trans": [{ "cn": "一副国际象棋" }]
+  },
+  {
+    "word": "chopstick",
+    "usphone": "'tʃɑpstɪk",
+    "ukphone": "'tʃɒpstɪk",
+    "rel_words": [],
+    "trans": [{ "cn": "筷子", "pos": "n" }]
+  },
+  {
+    "word": "toy",
+    "usphone": "tɔɪ",
+    "ukphone": "tɒɪ",
+    "rel_words": [],
+    "trans": [{ "cn": "玩具", "pos": "n" }]
+  },
+  {
+    "word": "video",
+    "usphone": "'vɪdɪo",
+    "ukphone": "'vɪdɪəʊ",
+    "rel_words": [],
+    "trans": [{ "cn": "（电子）视频的", "pos": "adj" }]
+  },
+  { "word": "video game", "rel_words": [], "trans": [{ "cn": "电子游戏" }] },
+  {
+    "word": "gift",
+    "usphone": "ɡɪft",
+    "ukphone": "gɪft",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "gifted", "tran": " 有天赋的；有才华的" }]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "gifted", "tran": " 给予（gift的过去分词）" }]
+      }
+    ],
+    "trans": [{ "cn": "礼物", "pos": "n" }]
+  },
+  {
+    "word": "surprise",
+    "usphone": "sɚ'praɪz",
+    "ukphone": "sə'praɪz",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "surprised", "tran": " 感到惊讶的，出人意料的" },
+          { "hwd": "surprising", "tran": " 令人惊讶的；意外的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "surprisingly", "tran": " 惊人地；出人意外地" },
+          { "hwd": "surprisedly", "tran": " 吃惊地；诧异地" }
+        ]
+      },
+      { "pos": "n", "words": [{ "hwd": "surprisal", "tran": " 惊异" }] },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "surprised", "tran": " 使惊奇（surprise的过去分词形式）" },
+          {
+            "hwd": "surprising",
+            "tran": " 使惊奇；意外发现（surprise的ing形式）"
+          }
+        ]
+      }
+    ],
+    "trans": [
+      { "cn": "惊奇；意外之事", "pos": "n" },
+      { "cn": "使（某人）吃惊", "pos": "v" }
+    ]
+  },
+  {
+    "word": "immediately",
+    "usphone": "ɪ'midɪətli",
+    "ukphone": "ɪ'miːdɪətlɪ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "immediate", "tran": " 立即的；直接的；最接近的" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "immediacy", "tran": " 直接；目前" },
+          { "hwd": "immediateness", "tran": " 即刻；直接" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "立刻；当即", "pos": "adv" }]
+  },
+  {
+    "word": "difference",
+    "usphone": "'dɪfrəns",
+    "ukphone": "'dɪf(ə)r(ə)ns",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "different", "tran": " 不同的；个别的，与众不同的" }]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "differently", "tran": " 不同地；差异；各种" }]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "differentia", "tran": " 差异；种差；不同点" }]
+      },
+      {
+        "pos": "vi",
+        "words": [{ "hwd": "differ", "tran": " 相异；意见分歧" }]
+      },
+      {
+        "pos": "vt",
+        "words": [{ "hwd": "differ", "tran": " 使…相异；使…不同" }]
+      }
+    ],
+    "trans": [{ "cn": "差别；差异", "pos": "n" }]
+  },
+  {
+    "word": "accept",
+    "usphone": "əkˈsɛpt",
+    "ukphone": "əkˈsept",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "acceptable", "tran": " 可接受的；合意的；可忍受的" },
+          { "hwd": "accepted", "tran": " 公认的；录取的；可接受的；已承兑的" },
+          { "hwd": "accepting", "tran": " 承兑的；易接受的；赞同的" },
+          { "hwd": "acceptant", "tran": " 容易接受的；愿接受的" },
+          { "hwd": "acceptive", "tran": " 易接纳的；可领受的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "acceptably", "tran": " 可欣然接受地；合意地" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "acceptance", "tran": " 接受；接纳；[金融] 承兑；赞同" },
+          { "hwd": "acceptability", "tran": " 可接受性；可容许性" },
+          { "hwd": "acceptor", "tran": " [金融] 承兑人；接受者；接收器" },
+          { "hwd": "acceptation", "tran": " 赞同；承认；通用意义" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "accepted", "tran": " 接受（accept的过去式及过去分词）" },
+          {
+            "hwd": "accepting",
+            "tran": " 接受；同意；承担（责任等）（accept的ing形式）"
+          }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "收受；接受", "pos": "v" }]
+  },
+  {
+    "word": "tradition",
+    "usphone": "trə'dɪʃən",
+    "ukphone": "trə'dɪʃ(ə)n",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "traditional", "tran": " 传统的；惯例的" },
+          { "hwd": "trad", "tran": " 传统的" },
+          {
+            "hwd": "traditionalist",
+            "tran": " 传统主义者的（等于traditionalistic）"
+          },
+          { "hwd": "traditionalistic", "tran": " 传统派的；传统主义者的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "traditionally", "tran": " 传统上；习惯上；传说上" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "trad", "tran": " 传统主义" },
+          { "hwd": "traditionalist", "tran": " 传统主义者；因循守旧者" },
+          { "hwd": "traditionalism", "tran": " 传统主义" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "传统习俗", "pos": "n" }]
+  },
+  {
+    "word": "example",
+    "usphone": "ɪg'zæmpl",
+    "ukphone": "ɪg'zɑːmp(ə)l; eg-",
+    "rel_words": [],
+    "trans": [{ "cn": "例子；实例", "pos": "n" }]
+  },
+  {
+    "word": "for example",
+    "usphone": "fɔr ɪɡˈzæmpəl",
+    "ukphone": "fɔ: iɡˈzɑ:mpl",
+    "rel_words": [],
+    "trans": [{ "cn": "例如" }]
+  },
+  {
+    "word": "must",
+    "usphone": "mʌst",
+    "ukphone": "mʌst",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "musty", "tran": " 发霉的；落伍的；冷淡的" }]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "muster", "tran": " 集合；检阅；点名册；集合人员" }]
+      },
+      { "pos": "vi", "words": [{ "hwd": "muster", "tran": " 召集；聚集" }] },
+      {
+        "pos": "vt",
+        "words": [{ "hwd": "muster", "tran": " 召集；对…进行点名；使振作" }]
+      }
+    ],
+    "trans": [{ "cn": "必须；应该", "pos": "v aux" }]
+  },
+  {
+    "word": "month",
+    "usphone": "mʌnθ",
+    "ukphone": "mʌnθ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "monthly", "tran": " 每月的，每月一次的；有效期为一个月的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "monthly", "tran": " 每月，每月一次" }]
+      },
+      { "pos": "n", "words": [{ "hwd": "monthly", "tran": " 月刊" }] }
+    ],
+    "trans": [{ "cn": "月；月份", "pos": "n" }]
+  },
+  {
+    "word": "serious",
+    "usphone": "'sɪrɪəs",
+    "ukphone": "'sɪərɪəs",
+    "rel_words": [
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "seriously", "tran": " 认真地；严重地，严肃地" }]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "seriousness", "tran": " 严重性；严肃；认真" }]
+      }
+    ],
+    "trans": [{ "cn": "认真严肃的；不开玩笑的", "pos": "adj" }]
+  },
+  {
+    "word": "taste",
+    "usphone": "test",
+    "ukphone": "teɪst",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "tasteless", "tran": " 无味的；无鉴赏力的" },
+          {
+            "hwd": "tasteful",
+            "tran": " 雅观的；有鉴赏力的；趣味高雅的；有滋味的"
+          }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "tasting", "tran": " 品尝，尝味" },
+          { "hwd": "taster", "tran": " 尝味道者；审阅人" },
+          { "hwd": "tastelessness", "tran": " 无鉴赏力；格调低俗；没滋味" },
+          { "hwd": "tastiness", "tran": " 滋味；味道" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "tasting", "tran": " 品尝（taste的ing形式）" }]
+      }
+    ],
+    "trans": [
+      { "cn": "有⋯⋯的味道", "pos": "v" },
+      { "cn": "味道；滋味", "pos": "n" }
+    ]
+  },
+  {
+    "word": "experience",
+    "usphone": "ɪk'spɪrɪəns",
+    "ukphone": "ɪkˈspɪərɪəns",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "experienced", "tran": " 老练的，熟练的；富有经验的" },
+          { "hwd": "experiential", "tran": " 经验的；经验上的；根据经验的" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "经历；经验", "pos": "n" }]
+  },
+  {
+    "word": "stay",
+    "usphone": "steɪ",
+    "ukphone": "steɪ",
+    "rel_words": [
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "stayer", "tran": " 滞留者；抑制物；支持者；耐性极强的人" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "逗留；停留", "pos": "n" }]
+  },
+  {
+    "word": "someone",
+    "usphone": "'sʌmwʌn",
+    "ukphone": "'sʌmwʌn",
+    "rel_words": [
+      {
+        "pos": "n",
+        "words": [{ "hwd": "somebody", "tran": " 大人物；重要人物" }]
+      },
+      { "pos": "pron", "words": [{ "hwd": "somebody", "tran": " 有人；某人" }] }
+    ],
+    "trans": [{ "cn": "某人；有人", "pos": "pron" }]
+  },
+  {
+    "word": "for the first time",
+    "rel_words": [],
+    "trans": [{ "cn": "首次；初次" }]
+  },
+  {
+    "word": "sandwich",
+    "usphone": "'sænwɪtʃ",
+    "ukphone": "'sæn(d)wɪdʒ; -wɪtʃ",
+    "rel_words": [],
+    "trans": [{ "cn": "三明治；夹心面包片", "pos": "n" }]
+  },
+  {
+    "word": "chip",
+    "usphone": "tʃɪp",
+    "ukphone": "tʃɪp",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "chipper", "tran": " 爽朗的；活泼的" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "chipping", "tran": " 破片；碎屑" },
+          { "hwd": "chipper", "tran": " 削片机；凿子；削东西的人；唧唧喳喳" }
+        ]
+      },
+      {
+        "pos": "vi",
+        "words": [{ "hwd": "chipper", "tran": " 吱吱地叫；唠叨" }]
+      },
+      {
+        "pos": "vt",
+        "words": [{ "hwd": "chipper", "tran": " 使愉快；使振作" }]
+      }
+    ],
+    "trans": [{ "cn": "炸土豆条；炸薯条", "pos": "n" }]
+  },
+  {
+    "word": "fish and chips",
+    "rel_words": [],
+    "trans": [{ "cn": "炸鱼加炸薯条" }]
+  },
+  {
+    "word": "onto",
+    "usphone": "ˈɑnˌtu, -tə, ˈɔn-",
+    "ukphone": "'ɒntuː",
+    "rel_words": [],
+    "trans": [{ "cn": "到⋯⋯之上；向⋯⋯之上", "pos": "prep" }]
+  },
+  {
+    "word": "gentleman",
+    "usphone": "'dʒɛntlmən",
+    "ukphone": "'dʒent(ə)lmən",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "gentlemanlike", "tran": " 绅士的；举止高雅的" },
+          { "hwd": "gentlemanly", "tran": " 绅士的，绅士派头的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "gent", "tran": " 绅士；假绅士；男子；男厕" }]
+      }
+    ],
+    "trans": [{ "cn": "先生；男士", "pos": "n" }]
+  },
+  {
+    "word": "shoulder",
+    "usphone": "'ʃoldɚ",
+    "ukphone": "'ʃəʊldə",
+    "rel_words": [],
+    "trans": [{ "cn": "肩；肩膀", "pos": "n" }]
+  },
+  {
+    "word": "broken",
+    "usphone": "'brokən",
+    "ukphone": "'brəʊk(ə)n",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "broke", "tran": " 一文不名的，破产的" },
+          { "hwd": "breakable", "tran": " 易碎的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "break", "tran": " 休息，中断；破裂处" },
+          { "hwd": "breaker", "tran": " [电] 断路器；打破者；碎浪" },
+          { "hwd": "breakage", "tran": " 破坏；破损；裂口；破损量" },
+          { "hwd": "breaking", "tran": " 破坏；阻断" },
+          { "hwd": "breakable", "tran": " 易碎的东西，易破的东西" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "broke", "tran": " 打破，断掉（break的过去式）" },
+          { "hwd": "breaking", "tran": " 破坏（break的ing形式）" }
+        ]
+      },
+      { "pos": "vi", "words": [{ "hwd": "break", "tran": " 突变" }] },
+      {
+        "pos": "vt",
+        "words": [{ "hwd": "break", "tran": " 打破，弄破；中断；弄坏；削弱" }]
+      }
+    ],
+    "trans": [{ "cn": "破碎的", "pos": "adj" }]
+  },
+  {
+    "word": "glass",
+    "usphone": "ɡlæs",
+    "ukphone": "glɑːs",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "glassy", "tran": " 像玻璃的；光亮透明的；呆滞的" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "glassblower", "tran": " 吹玻璃的人或机器" },
+          { "hwd": "glassmaker", "tran": " 玻璃工人" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "玻璃", "pos": "n" }]
+  },
+  {
+    "word": "stairs",
+    "usphone": "stɛrz",
+    "ukphone": "stɛəz",
+    "rel_words": [],
+    "trans": [{ "cn": "楼梯 (pl.)", "pos": "n" }]
+  },
+  {
+    "word": "aid",
+    "usphone": "ed",
+    "ukphone": "eɪd",
+    "rel_words": [],
+    "trans": [{ "cn": "救助；帮助", "pos": "n" }]
+  },
+  { "word": "first aid", "rel_words": [], "trans": [{ "cn": "急救" }] },
+  {
+    "word": "medical",
+    "usphone": "'mɛdɪkl",
+    "ukphone": "'medɪk(ə)l",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "medicative", "tran": " 有药效的；可治病的；有治疗作用的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "medically", "tran": " 医学上地；医药上地" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "medicine", "tran": " 药；医学；内科；巫术" },
+          { "hwd": "medication", "tran": " 药物；药物治疗；药物处理" },
+          {
+            "hwd": "medic",
+            "tran": " 医师；医科学生；苜蓿属植物（等于medick）"
+          }
+        ]
+      },
+      {
+        "pos": "vt",
+        "words": [
+          { "hwd": "medicine", "tran": " 用药物治疗；给…用药" },
+          { "hwd": "medicate", "tran": " 用药治疗；加药品于" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "医学的；医疗的", "pos": "adj" }]
+  },
+  {
+    "word": "imagine",
+    "usphone": "ɪ'mædʒɪn",
+    "ukphone": "ɪ'mædʒɪn",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "imaginary", "tran": " 虚构的，假想的；想像的；虚数的" },
+          { "hwd": "imaginative", "tran": " 虚构的；富于想像的；有创造力的" },
+          { "hwd": "imaginable", "tran": " 可能的；可想像的" },
+          { "hwd": "imagined", "tran": " 想象的；构想的" },
+          { "hwd": "imaginal", "tran": " [昆] 成虫的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "imaginatively", "tran": " 想象上地" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "imagination", "tran": " [心理] 想象力；空想；幻想物" },
+          { "hwd": "imaging", "tran": " 成像" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "imaging", "tran": " 想像（image的ing形式）；画…的像" },
+          { "hwd": "imagined", "tran": " 想象（imagine的过去分词）；猜测" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "想像，设想", "pos": "v" }]
+  },
+  {
+    "word": "bottom",
+    "usphone": "'bɑtəm",
+    "ukphone": "'bɒtəm",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          {
+            "hwd": "bottomless",
+            "tran": " 无底的；深不可测的；难解的；取之不尽的"
+          },
+          { "hwd": "bottomed", "tran": " 底的；（处于）底层的" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          {
+            "hwd": "bottomed",
+            "tran": " 给（鞋子）装底；查明…的原因；使到达底部（bottom的过去分词）"
+          }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "底部；下端", "pos": "n" }]
+  },
+  {
+    "word": "at the bottom of",
+    "rel_words": [],
+    "trans": [{ "cn": "在⋯⋯的底部" }]
+  },
+  {
+    "word": "wrong",
+    "usphone": "rɔŋ",
+    "ukphone": "rɒŋ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "wrongful", "tran": " 不正当的；不讲道理的；不合法的" },
+          { "hwd": "wrongheaded", "tran": " 固执的；坚持错误的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "wrongly", "tran": " 错误地；不恰当地；不公正地" },
+          { "hwd": "wrongfully", "tran": " 不正当地；不妥地" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "wrongdoing", "tran": " 坏事；不道德的行为" },
+          { "hwd": "wrongdoer", "tran": " 做坏事的人；违法犯罪者" },
+          { "hwd": "wrongfulness", "tran": " 不法性" },
+          { "hwd": "wrongness", "tran": " 不正直；谬误；不公正" }
+        ]
+      }
+    ],
+    "trans": [
+      { "cn": "有毛病的；错误的", "pos": "adj" },
+      { "cn": "不正确地；错误地", "pos": "adv" }
+    ]
+  },
+  {
+    "word": "What's wrong with ⋯?",
+    "rel_words": [],
+    "trans": [{ "cn": "⋯⋯怎么了？" }]
+  },
+  {
+    "word": "trouble",
+    "usphone": "'trʌbl",
+    "ukphone": "'trʌb(ə)l",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "troublesome", "tran": " 麻烦的；讨厌的；使人苦恼的" },
+          { "hwd": "troubled", "tran": " 动乱的，不安的；混乱的；困惑的" },
+          { "hwd": "troublesomeness", "tran": " 易出故障的" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "troublemaker", "tran": " 捣乱者，闹事者；惹麻烦的人" },
+          {
+            "hwd": "troubleshooter",
+            "tran": " 故障检修工；解决纠纷者；解决麻烦问题的能手"
+          },
+          { "hwd": "troubler", "tran": " 闹事者；捣乱者" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "问题；烦恼；困难", "pos": "n" }]
+  },
+  {
+    "word": "lift",
+    "usphone": "lɪft",
+    "ukphone": "lɪft",
+    "rel_words": [
+      {
+        "pos": "n",
+        "words": [{ "hwd": "lifter", "tran": " 升降机；举重运动员；小偷" }]
+      }
+    ],
+    "trans": [
+      { "cn": "举起；抬起；提起", "pos": "v" },
+      { "cn": "电梯", "pos": "n" }
+    ]
+  },
+  { "word": "lift up", "rel_words": [], "trans": [{ "cn": "抬起；提起" }] },
+  {
+    "word": "harmful",
+    "usphone": "'hɑrmfəl",
+    "ukphone": "'hɑːmfʊl; -f(ə)l",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "harmless", "tran": " 无害的；无恶意的" }]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "harmfully", "tran": " 有害地；伤害地" },
+          { "hwd": "harmlessly", "tran": " 无害地；无恶意地" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "harm", "tran": " 伤害；损害" },
+          { "hwd": "harmfulness", "tran": " 伤害；有害" }
+        ]
+      },
+      { "pos": "vt", "words": [{ "hwd": "harm", "tran": " 伤害；危害；损害" }] }
+    ],
+    "trans": [{ "cn": "有害的", "pos": "adj" }]
+  },
+  {
+    "word": "drop",
+    "usphone": "drɑp",
+    "ukphone": "drɒp",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "dropped", "tran": " 抛踢球得分的" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "dropping", "tran": " 落下；空投；滴下物" },
+          { "hwd": "dropper", "tran": " 滴管；使滴下的东西；点滴器" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          {
+            "hwd": "dropped",
+            "tran": " 下降，减少；掉下，滴下（drop的过去式和过去分词形式）"
+          },
+          {
+            "hwd": "dropping",
+            "tran": " 落下；退出（drop的ing形式）；滴入；随口漏出"
+          }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "使落下；投下", "pos": "v" }]
+  },
+  {
+    "word": "training",
+    "usphone": "'trenɪŋ",
+    "ukphone": "'treɪnɪŋ",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "trained", "tran": " 培训；训练过的，受过培训的" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "train", "tran": " 火车；行列；长队；裙裾" },
+          {
+            "hwd": "trainee",
+            "tran": " 练习生，实习生；受训者；新兵；训练中的动物"
+          },
+          { "hwd": "trainer", "tran": " 助理教练；训练员；驯马师；飞行练习器" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "train", "tran": " 培养；训练；瞄准" },
+          { "hwd": "trained", "tran": " 训练（train的过去分词）" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "训练；培训", "pos": "n" }]
+  },
+  {
+    "word": "make sure",
+    "usphone": "mek ʃʊər",
+    "rel_words": [],
+    "trans": [{ "cn": "确保；确认" }]
+  },
+  {
+    "word": "cover",
+    "usphone": "'kʌvɚ",
+    "ukphone": "'kʌvə",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "covering", "tran": " 掩盖的，掩护的" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "coverage", "tran": " 覆盖，覆盖范围" },
+          { "hwd": "covering", "tran": " 遮盖物，覆盖物" },
+          {
+            "hwd": "coverture",
+            "tran": " 保护；覆盖；掩护；有夫之妇的法律身分"
+          }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "covering", "tran": " 覆盖；穿（cover的ing形式）；代替" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "盖；盖上", "pos": "v" }]
+  },
+  {
+    "word": "earthquake",
+    "usphone": "'ɝθ'kwek",
+    "ukphone": "'ɜːθkweɪk",
+    "rel_words": [],
+    "trans": [{ "cn": "地震", "pos": "n" }]
+  },
+  {
+    "word": "warn",
+    "usphone": "wɔrn",
+    "ukphone": "wɔːn",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "warning", "tran": " 警告的；引以为戒的" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "warning", "tran": " 警告；预兆；预告" },
+          { "hwd": "warner", "tran": " 警告者；报警器" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "warning", "tran": " 警告（warn的ing形式）" }]
+      }
+    ],
+    "trans": [{ "cn": "警告；告诫", "pos": "v" }]
+  },
+  {
+    "word": "inside",
+    "usphone": "'ɪn'saɪd",
+    "ukphone": "ɪn'saɪd",
+    "rel_words": [
+      {
+        "pos": "n",
+        "words": [{ "hwd": "insider", "tran": " 内部的人，会员；熟悉内情者" }]
+      }
+    ],
+    "trans": [
+      { "cn": "内部；里面", "pos": "n" },
+      { "cn": "在里面；向室内", "pos": "adv" },
+      { "cn": "在⋯⋯里面", "pos": "prep" },
+      { "cn": "在⋯⋯里面", "pos": "prep" },
+      { "cn": "里面的；内部的", "pos": "adj" }
+    ]
+  },
+  {
+    "word": "under",
+    "usphone": "'ʌndɚ",
+    "ukphone": "'ʌndə",
+    "rel_words": [
+      {
+        "pos": "n",
+        "words": [
+          {
+            "hwd": "underachiever",
+            "tran": " 后进生；学校学习成绩低于智商的学生"
+          },
+          { "hwd": "underbid", "tran": " 叫牌偏低；出价较低" }
+        ]
+      },
+      {
+        "pos": "vt",
+        "words": [{ "hwd": "underbid", "tran": " 出价低于…；出较低的价钱" }]
+      }
+    ],
+    "trans": [{ "cn": "在⋯⋯正下方；在⋯⋯下面", "pos": "prep" }]
+  },
+  {
+    "word": "window",
+    "usphone": "'wɪndo",
+    "ukphone": "'wɪndəʊ",
+    "rel_words": [],
+    "trans": [{ "cn": "窗；窗户", "pos": "n" }]
+  },
+  {
+    "word": "keep",
+    "usphone": "kip",
+    "ukphone": "kiːp",
+    "rel_words": [
+      { "pos": "adj", "words": [{ "hwd": "kept", "tran": " 受人资助控制的" }] },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "keeper", "tran": " 监护人；饲养员；看守人；管理人" },
+          { "hwd": "keeping", "tran": " 保管；一致；协调；遵守" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          {
+            "hwd": "kept",
+            "tran": " 保持；维持；保管（keep的过去式和过去分词）"
+          },
+          { "hwd": "keeping", "tran": " 保持；遵守（keep的ing形式）" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "(kept) 保持；留在", "pos": "v" }]
+  },
+  {
+    "word": "clear",
+    "usphone": "klɪr",
+    "ukphone": "klɪə",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [{ "hwd": "clearheaded", "tran": " 头脑清楚的" }]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "clearly", "tran": " 清晰地；明显地；无疑地；明净地" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "clearance", "tran": " 清除；空隙" },
+          { "hwd": "clearing", "tran": " 结算；空地；清扫" },
+          { "hwd": "clearness", "tran": " 明白；晴朗；明亮" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [
+          { "hwd": "clearing", "tran": " 澄清；放晴（clear的ing形式）" }
+        ]
+      }
+    ],
+    "trans": [
+      { "cn": "不和⋯⋯接触的；不挨⋯⋯太近的", "pos": "adj" },
+      { "cn": "清除；清理；移走", "pos": "v" }
+    ]
+  },
+  {
+    "word": "keep clear of ⋯",
+    "rel_words": [],
+    "trans": [{ "cn": "不和⋯⋯接触" }]
+  },
+  {
+    "word": "calm",
+    "usphone": "kɑm",
+    "ukphone": "kɑːm",
+    "rel_words": [
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "calmly", "tran": " 冷静地；平静地；安静地" }]
+      },
+      {
+        "pos": "n",
+        "words": [{ "hwd": "calmness", "tran": " 冷静，镇静；平静，安宁" }]
+      }
+    ],
+    "trans": [{ "cn": "镇静的；沉着的", "pos": "adj" }]
+  },
+  {
+    "word": "brave",
+    "usphone": "brev",
+    "ukphone": "breɪv",
+    "rel_words": [
+      {
+        "pos": "adv",
+        "words": [{ "hwd": "bravely", "tran": " 勇敢地；华丽地" }]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "bravery", "tran": " 勇敢；勇气" },
+          { "hwd": "braveness", "tran": " 勇敢；华饰" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "勇敢的；无畏的", "pos": "adj" }]
+  },
+  {
+    "word": "helpful",
+    "usphone": "'hɛlpfl",
+    "ukphone": "'helpfʊl; -f(ə)l",
+    "rel_words": [
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "helpless", "tran": " 无助的；无能的；没用的" },
+          { "hwd": "helping", "tran": " 辅助的；给予帮助的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "helplessly", "tran": " 无助地；无能为力地" },
+          { "hwd": "helpfully", "tran": " 有益地；有用地" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "help", "tran": " 帮助；补救办法；帮忙者；有益的东西" },
+          { "hwd": "helper", "tran": " 助手，帮手" },
+          { "hwd": "helpdesk", "tran": " 帮助台；超文本文档帮助信息" },
+          { "hwd": "helping", "tran": " 帮助，协助；一份食物" },
+          { "hwd": "helpfulness", "tran": " 有益；有助" }
+        ]
+      },
+      {
+        "pos": "v",
+        "words": [{ "hwd": "helping", "tran": " 帮助；扶持（help的ing形式）" }]
+      },
+      {
+        "pos": "vi",
+        "words": [{ "hwd": "help", "tran": " 帮助；有用；招待" }]
+      },
+      {
+        "pos": "vt",
+        "words": [{ "hwd": "help", "tran": " 帮助；促进；治疗；补救" }]
+      }
+    ],
+    "trans": [{ "cn": "有用的；提供帮助的", "pos": "adj" }]
+  },
+  {
+    "word": "power",
+    "usphone": "'paʊɚ",
+    "ukphone": "'paʊə",
+    "rel_words": [
+      { "words": [{ "hwd": "powerlessly", "tran": "麻痹地" }] },
+      {
+        "pos": "adj",
+        "words": [
+          { "hwd": "powerful", "tran": " 强大的；强有力的" },
+          { "hwd": "powered", "tran": " 有动力装置的；以…为动力的" },
+          { "hwd": "powerless", "tran": " 无力的；[劳经] 无能力的，无权的" }
+        ]
+      },
+      {
+        "pos": "adv",
+        "words": [
+          { "hwd": "powerful", "tran": " 很；非常" },
+          { "hwd": "powerlessly", "tran": " 无力地" }
+        ]
+      },
+      {
+        "pos": "n",
+        "words": [
+          { "hwd": "powered", "tran": " 促进（power的过去分词）；给…提供动力" },
+          { "hwd": "powerfulness", "tran": " 有力；强烈" },
+          { "hwd": "powerlessness", "tran": " 无力；无能为力；无力量" }
+        ]
+      }
+    ],
+    "trans": [{ "cn": "电；电力", "pos": "n" }]
+  }
+]
