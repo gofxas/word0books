@@ -1,0 +1,920 @@
+[
+  {
+    "word": "あ",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "a",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ア",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "い",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "i",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "イ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "う",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "u",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ウ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "え",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "e",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "エ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "お",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "o",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "オ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "か",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "ka",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "カ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "き",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "ki",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "キ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "く",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "ku",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ク",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "け",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "ke",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ケ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "こ",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "ko",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "コ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "さ",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "sa",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "サ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "し",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "shi",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "シ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "す",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "su",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ス",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "せ",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "se",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "セ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "そ",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "so",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ソ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "た",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "ta",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "タ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "ち",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "chi",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "チ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "つ",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "tsu",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ツ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "て",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "te",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "テ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "と",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "to",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ト",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "な",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "na",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ナ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "に",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "ni",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ニ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "ぬ",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "nu",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ヌ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "ね",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "ne",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ネ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "の",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "no",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ノ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "は",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "ha",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ハ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "ひ",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "hi",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ヒ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "ふ",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "fu",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "フ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "へ",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "he",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ヘ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "ほ",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "ho",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ホ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "ま",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "ma",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "マ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "み",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "mi",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ミ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "む",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "mu",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ム",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "め",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "me",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "メ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "も",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "mo",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "モ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "や",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "ya",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ヤ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "ゆ",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "yu",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ユ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "よ",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "yo",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ヨ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "ら",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "ra",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ラ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "り",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "ri",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "リ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "る",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "ru",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ル",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "れ",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "re",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "レ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "ろ",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "ro",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ロ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "わ",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "wa",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ワ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "を",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "wo",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ヲ",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "ん",
+    "usphone": "",
+    "ukphone": "",
+    "jphone": "n",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ン",
+        "pos": "片假名"
+      }
+    ]
+  },
+  {
+    "word": "が",
+    "usphone": "",
+    "ukphone": "ga",
+    "jphone": "ga",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ガ",
+        "pos": "片假名"
+      },
+      {
+        "pos": "浊音"
+      }
+    ]
+  },
+  {
+    "word": "ぎ",
+    "usphone": "",
+    "ukphone": "gʲi",
+    "jphone": "gi",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ギ",
+        "pos": "片假名"
+      },
+      {
+        "pos": "浊音"
+      }
+    ]
+  },
+  {
+    "word": "ぐ",
+    "usphone": "",
+    "ukphone": "gu",
+    "jphone": "gu",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "グ",
+        "pos": "片假名"
+      },
+      {
+        "pos": "浊音"
+      }
+    ]
+  },
+  {
+    "word": "げ",
+    "usphone": "",
+    "ukphone": "ge",
+    "jphone": "ge",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ゲ",
+        "pos": "片假名"
+      },
+      {
+        "pos": "浊音"
+      }
+    ]
+  },
+  {
+    "word": "ご",
+    "usphone": "",
+    "ukphone": "go",
+    "jphone": "go",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ゴ",
+        "pos": "片假名"
+      },
+      {
+        "pos": "浊音"
+      }
+    ]
+  },
+  {
+    "word": "ざ",
+    "usphone": "",
+    "ukphone": "dza",
+    "jphone": "za",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ザ",
+        "pos": "片假名"
+      },
+      {
+        "pos": "浊音"
+      }
+    ]
+  },
+  {
+    "word": "じ",
+    "usphone": "",
+    "ukphone": "dʒi",
+    "jphone": "ji",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ジ",
+        "pos": "片假名"
+      },
+      {
+        "pos": "浊音"
+      }
+    ]
+  },
+  {
+    "word": "ず",
+    "usphone": "",
+    "ukphone": "dzu",
+    "jphone": "zu",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ズ",
+        "pos": "片假名"
+      },
+      {
+        "pos": "浊音"
+      }
+    ]
+  },
+  {
+    "word": "ぜ",
+    "usphone": "",
+    "ukphone": "dze",
+    "jphone": "ze",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ゼ",
+        "pos": "片假名"
+      },
+      {
+        "pos": "浊音"
+      }
+    ]
+  },
+  {
+    "word": "ぞ",
+    "usphone": "",
+    "ukphone": "dzo",
+    "jphone": "zo",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ゾ",
+        "pos": "片假名"
+      },
+      {
+        "pos": "浊音"
+      }
+    ]
+  },
+  {
+    "word": "だ",
+    "usphone": "",
+    "ukphone": "da",
+    "jphone": "da",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ダ",
+        "pos": "片假名"
+      },
+      {
+        "pos": "浊音"
+      }
+    ]
+  },
+  {
+    "word": "ぢ",
+    "usphone": "",
+    "ukphone": "dʒi",
+    "jphone": "ji",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ヂ",
+        "pos": "片假名"
+      },
+      {
+        "pos": "浊音"
+      }
+    ]
+  },
+  {
+    "word": "づ",
+    "usphone": "",
+    "ukphone": "dzu",
+    "jphone": "zu",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ヅ",
+        "pos": "片假名"
+      },
+      {
+        "pos": "浊音"
+      }
+    ]
+  },
+  {
+    "word": "で",
+    "usphone": "",
+    "ukphone": "de",
+    "jphone": "de",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "デ",
+        "pos": "片假名"
+      },
+      {
+        "pos": "浊音"
+      }
+    ]
+  },
+  {
+    "word": "ど",
+    "usphone": "",
+    "ukphone": "do",
+    "jphone": "do",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ド",
+        "pos": "片假名"
+      },
+      {
+        "pos": "浊音"
+      }
+    ]
+  },
+  {
+    "word": "ば",
+    "usphone": "",
+    "ukphone": "ba",
+    "jphone": "ba",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "バ",
+        "pos": "片假名"
+      },
+      {
+        "pos": "浊音"
+      }
+    ]
+  },
+  {
+    "word": "び",
+    "usphone": "",
+    "ukphone": "bi",
+    "jphone": "bi",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ビ",
+        "pos": "片假名"
+      },
+      {
+        "pos": "浊音"
+      }
+    ]
+  },
+  {
+    "word": "ぶ",
+    "usphone": "",
+    "ukphone": "bu",
+    "jphone": "bu",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ブ",
+        "pos": "片假名"
+      },
+      {
+        "pos": "浊音"
+      }
+    ]
+  },
+  {
+    "word": "べ",
+    "usphone": "",
+    "ukphone": "be",
+    "jphone": "be",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ベ",
+        "pos": "片假名"
+      },
+      {
+        "pos": "浊音"
+      }
+    ]
+  },
+  {
+    "word": "ぼ",
+    "usphone": "",
+    "ukphone": "bo",
+    "jphone": "bo",
+    "rel_words": [],
+    "trans": [
+      {
+        "cn": "ボ",
+        "pos": "片假名"
+      },
+      {
+        "pos": "浊音"
+      }
+    ]
+  }
+]
